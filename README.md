@@ -10,6 +10,14 @@ Cada obra traz o texto original em inglês e as traduções, capítulo por capí
 |---|---|---|
 | A. W. Pink | [Os Atributos de Deus](a-w-pink/os-atributos-de-deus/) | 25 |
 
+## Comentários bíblicos (em tradução)
+
+Traduções para português e espanhol, feitas aos poucos (um trecho por noite), dos comentários clássicos de **Matthew Poole**, **John Gill** e **Albert Barnes**, que nunca foram publicados nessas línguas. Pasta `comentarios/<autor>/<língua>/<livro>.json`, versículo por versículo. Versículos já traduzidos: Poole 25, Gill 25, Barnes 25.
+
+## Léxico grego e hebraico (em tradução)
+
+Tradução do léxico do [STEPBible](https://www.stepbible.org) (Tyndale House, Cambridge; CC BY 4.0), com os sentidos numerados de cada palavra, organizada pelos números de Strong. Pasta `lexico/<língua>/lexico.json`. Verbetes já traduzidos: 133.
+
 ## Como usar
 
 As traduções estão sob a licença **[Creative Commons Atribuição 4.0 (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/deed.pt-br)**. Você pode copiar, imprimir, distribuir, adaptar e usar em igrejas, estudos, sites e livros, inclusive com fins comerciais, desde que dê o crédito:
