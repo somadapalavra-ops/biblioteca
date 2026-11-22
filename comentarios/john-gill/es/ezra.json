@@ -1,0 +1,1318 @@
+{
+ "autor": "John Gill (1697–1771)",
+ "livro": "ezra",
+ "lingua": "es",
+ "licenca": "CC BY 4.0 — Tradução: A soma da Palavra (somadapalavra.com.br). Original em domínio público.",
+ "introducao": "",
+ "itens": [
+  {
+   "capitulo": 1,
+   "versiculo": 1,
+   "ate_capitulo": 1,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A EZRA\n\nEste libro, en las versiones latina vulgata y árabe, se conoce como el \"Primer\" libro de Ezra, mientras que Nehemías se considera el \"segundo\"; sin embargo, para los judíos, ambos se consideraban un solo libro (a). En la versión siríaca, se le llama \"La Escritura\" o \"El Libro de Ezra el Profeta\"; y este título se le atribuye tanto por judíos (b) como por cristianos (c). En la versión árabe, se le llama el \"Primer Libro de Ezra el Sacerdote, experto en la Ley\". Es evidente que era sacerdote, ya que era hijo de Seraías, el sumo sacerdote, quien fue asesinado por Nabucodonosor, y hermano menor de Josué, quien sucedió a su padre como sumo sacerdote, y tío de Josías, quien le sucedió. Además, era un escriba hábil en la ley de Moisés, como se puede ver en Ezra 7:1. Se cree que Ezra fue el autor de este libro, tanto por los judíos (d) como por la mayoría de los cristianos. Solo Huetius (e) opina que los seis primeros capítulos fueron escritos por otra persona, pero sus argumentos no son convincentes. Universalmente, se ha aceptado como canónico por todos. El libro se ajusta a las profecías de Jojás y Zacarías, y sirve para ilustrarlas. Es útil para continuar la historia sagrada, para destacar el cumplimiento de las profecías sobre el regreso de los judíos del cautiverio y la reconstrucción del templo, y para darnos una idea del estado de la iglesia en esa época, las dificultades y problemas que enfrentó, y los cuidados que se tomaron para mantener distintas a las tribus y familias, para que se pudiera saber de quién descendería el Mesías. Este libro contiene una historia de setenta años, según el cálculo del obispo Usher (f), desde el año 3468 antes de la era cristiana hasta el año 3538 antes de la era cristiana.\n\n(a) Origen apud Euseb. Hist. Eccl. l. 6. c. 25. Hieron. Opera, tom. 3. Epist. ad Paulin. fol. 6. B. & ad Domnion. & Rogat. fol. 7. G. (b) Seder Olam Zuta, p. 108. (c) Lactant. Institut. l. 4. c. 11. (d) T. Bab. Bava Bathra, fol. 15. 1.((e) Demonstr. Evangel. prop. 4. p. 208, 209. (f) Annal. Vet. Test. p. 146, 193.\n\nINTRODUCCIÓN A Ezra 1\n\nEste capítulo nos informa sobre el edicto del rey Ciro de Persia, por el cual se permitía a los judíos regresar a su propia tierra y reconstruir su templo (Ezra 1:1). Además, se menciona que uno de los líderes de los judíos se levantó con este propósito, y que sus manos fueron fortalecidas y apoyadas por aquellos que lo rodeaban (Ezra 1:5), en particular por Ciro, quien ordenó que los utensilios pertenecientes al templo fueran entregados a ellos (Ezra 1:7).\n\nAhora, en el primer año del reinado de Ciro, rey de Persia,.... No fue al comienzo de su reinado sobre Persia, ya que había sido rey de esa región durante muchos años, y ahora se le habían dado todos los reinos de la tierra, según Ezra 1:2, sino sobre Babilonia y los territorios que le pertenecían, lo cual comenzó con Darío tras la conquista de Babilonia. Reinó durante treinta años, según relata Cicerón (g), basándose en un autor persa; o veintinueve años, según Herodoto (h). Sin embargo, el año exacto de este reinado no está confirmado. Africanus (i) ha demostrado, a través de diversos historiadores, que fue el primer año de la 55ª Olimpiada, posiblemente alrededor del vigésimo año del gobierno persa de Ciro (k). Ver la nota de Gill sobre Daniel 10:1.\n\npara que se cumpliera la palabra del Señor, a través de la boca de Jeremías, la cual anunciaba que los judíos regresarían de su cautiverio al final de setenta años, lo cual comenzó en el primer año de Ciro, contando desde el cuarto año de Joacim, y el primer año de Nabucodonosor; véase Jeremías 25:1.\n\nEl Señor despertó el espíritu de Ciro, rey de Persia; quien tiene en sus manos los corazones de todos los hombres, e incluso de los reyes de la tierra, y puede cambiarlos a su antojo; influyó en él, puso esa idea en su corazón, iluminó su mente, le mostró lo que era correcto y su deber, y lo impulsó a llevarlo a cabo; de modo que no pudo encontrar paz hasta que lo hizo, y se sintió completamente dispuesto, e incluso ansioso por hacerlo:\n\ny así, hizo un edicto que se proclamó en todo su reino, y también lo puso por escrito; entregó el edicto por escrito a sus mensajeros para que lo leyeran y lo anunciaran en todo su dominio:\n\ny decía lo siguiente.\n\n(g) De Divinatione, l. 1.\n(h) Clio, sive, l. 1. c. 214.\n(i) Apud Euseb. Praepar. Evangel. l. 10. c. 10. p. 488.\n(k) Nic. Abrami Pharus, p. 303."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 2,
+   "ate_capitulo": 1,
+   "ate_versiculo": 2,
+   "texto": "Así habla Ciro, rey de Persia,.... De quien, y de este edicto suyo, el profeta Isaías predijo doscientos años antes de su nacimiento, según Isaías 44:28.\n\nEl Señor Dios del cielo me ha dado todos los reinos de la tierra; muchos los había conquistado antes de tomar Babilonia, y luego toda la monarquía babilónica cayó en sus manos. Heródoto (l) dice que gobernaba sobre toda Asia; Xenofonte (m) enumera muchas naciones que estaban bajo su gobierno, como los medos, los hirricanes, los sirios, los asirios, los árabes, los capadocia, los frigios, los cários, los fenicios, los babilonios, los bactrianos, los indios, los cilicios, los sacas o escitas, los paphlagonios, los megadinios, y muchas otras naciones, los griegos que habitaban Asia, los cipriotas y los egipcios; y en otro lugar dice (n) que las fronteras de su reino eran, al este, el Mar Rojo; al norte, el Mar de Azov; al oeste, Chipre y Egipto; y al sur, Etiopía. Y Ciro atribuye la posesión de estos reinos, no a su propio valor y habilidad militares, sino a la providencia y disposición del Dios del cielo, de lo cual parece haber tenido cierta idea.\n\nY me ha encomendado construir una casa en Jerusalén, que está en Judá; en la profecía de Isaías, que, según Josefo (o), había visto y leído, y creía que era una orden para él, y un mandato para reconstruir el templo en Jerusalén; sin embargo, para permitir la reconstrucción, para alentarla y para ayudar en ella; un escritor árabe dice (p) que Ciro se casó con una hermana de Zerubabel, y que fue a su petición que los judíos obtuvieron permiso para regresar; lo cual es puramente una invención.\n\n(l) Clio, sive, l. 1. c. 130. So Sallust, Bell. Catalin. p. 2.\n(m) Cyropaedia, l. 1. in principio.\n(n) L. 8. c. 48.\n(o) Antiqu. l. 11. c. 1. sect. 1, 2.\n(p) Abulpharag. Hist. Dynast. Dyn. 5. p. 82."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 3,
+   "ate_capitulo": 1,
+   "ate_versiculo": 3,
+   "texto": "¿Quién de entre ustedes es de su pueblo?.... El pueblo de Dios, los israelitas, tanto de las diez tribus como de las dos de Judá y Benjamín; porque este edicto fue promulgado en todo su dominio, donde se encontraban tanto unos como otros.\n\nque su Dios esté con él; que incline su corazón a emprender el viaje, que lo proteja en su camino y le conceda éxito y prosperidad en todo lo que haga:\n\ny que vaya a Jerusalén, que está en Judá, y construya la casa del Señor, Dios de Israel, Él es el Dios; el único Dios vivo y verdadero:\n\nque está en Jerusalén; a quien se ha adorado en tiempos pasados y que debe ser adorado allí; aunque Aben Ezra dice que esto debe relacionarse con \"la casa del Señor\"; como si el sentido fuera construir la casa que estaba en Jerusalén, o que debía ser construida allí; y así nuestra traducción lo conecta, colocando esas palabras entre paréntesis: \"Él es Dios\"; pero esto contradice la acentuación."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 4,
+   "ate_capitulo": 1,
+   "ate_versiculo": 4,
+   "texto": "Y aquel que permanezca en cualquier lugar donde se encuentre,.... Se queda atrás, y no puede continuar su camino debido a la pobreza, ya que carece de los recursos necesarios para cubrir sus gastos durante el viaje a Jerusalén.\n\nPermitid que los habitantes de su lugar lo acompañen con plata, oro, bienes y animales; que le proporcionen dinero para cubrir los gastos de su viaje, bienes para amueblar su casa o para comerciar cuando llegue a Judea, y ganado para transportarlo a él y a sus pertenencias, y para trabajar la tierra cuando llegue allí; y aquellos a quienes se les insta a hacer esto son o bien los gentiles que vivían en las ciudades donde se encontraban estos judíos pobres, o los judíos más ricos, que aún no habían decidido viajar hasta ver cómo se desarrollarían las cosas; y, por lo tanto, se les pide que ayuden a sus hermanos que tenían la voluntad, pero no los medios:\n\nademás de la ofrenda voluntaria para la casa de Dios que está en Jerusalén, que entregaron libremente y enviaron para la reconstrucción del templo."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 5,
+   "ate_capitulo": 1,
+   "ate_versiculo": 5,
+   "texto": "Entonces, se levantó el jefe de los ancianos de Judá y de Benjamín,.... Príncipes de estas tribus, y jefes de familias dentro de ellas, así como de algunas otras tribus, aunque principalmente de estas, como se desprende de 1 Crónicas 9:3.\n\ny los sacerdotes y los levitas: cuya presencia era necesaria tanto para dirigir la construcción del templo, como para inspirar entusiasmo en ella, y para colocar los utensilios en sus lugares correspondientes; y, en particular, para ayudar en la colocación del altar y para ofrecer sacrificios sobre él, lo cual fue lo primero que se hizo al llegar a Jerusalén (Esdras 3:2).\n\ncon todos aquellos en cuyo espíritu Dios despertó el deseo de ascender para construir la casa del Señor, que está en Jerusalén. Dios, quien \"obra en los hombres tanto para querer como para hacer\", actuó poderosamente a través de su Espíritu en sus corazones, inclinó sus mentes y los hizo dispuestos a ascender y emprender esta tarea. Una operación divina, poderosa y eficaz como esa era necesaria para involucrarlos en ella, ya que existían muchos obstáculos, dificultades, desánimos y objeciones: algunos de ellos estaban bien establecidos y habían cultivado relaciones agradables con muchos de sus vecinos, y, de hecho, para la mayoría de ellos, era su lugar de origen. En cuanto a Judea y Jerusalén, no sabían nada más que lo que sus padres les habían contado; el camino hacia allí era desconocido, largo y peligroso, o, al menos, agotador y problemático para sus esposas e hijos; y Judea y Jerusalén estaban desoladas y en ruinas, y en manos de enemigos, de quienes tenían motivos para esperar problemas."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 6,
+   "ate_capitulo": 1,
+   "ate_versiculo": 6,
+   "texto": "Y todos aquellos que estaban cerca de ellos,.... Sus vecinos, los caldeos:\n\nfortalecieron sus capacidades con recipientes de plata, de oro, con mercancías y con animales, y con objetos preciosos; ya sea por iniciativa propia, o siguiendo las indicaciones y el ejemplo de Ciro, Ezra 1:4, y quizás muchos de ellos para ganarse el favor de su nuevo monarca:\n\nademás de todo lo que se ofreció voluntariamente: por parte de los judíos más adinerados, quienes, al menos por el momento, decidieron permanecer en Babilonia."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 7,
+   "ate_capitulo": 1,
+   "ate_versiculo": 7,
+   "texto": "Y Ciro sacó los utensilios del templo del Señor,.... O les ordenó que los trajeran.\n\nque Nabucodonosor había sacado de Jerusalén, del templo de allí, cuando lo tomó y lo incendió:\n\ny los había colocado en la casa de sus dioses, en el templo de Belus en Babilonia, como se menciona en 2 Crónicas 36:7, por lo que fueron preservados de manera providencial."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 8,
+   "ate_capitulo": 1,
+   "ate_versiculo": 8,
+   "texto": "Incluso estas cosas fueron traídas por Ciro, rey de Persia, a través de Mithredath, el tesorero,.... O Mitrídates, un nombre común entre los persas, derivado de su dios Mitras, el sol al que adoraban:\n\ny los contó a Sesbasar, príncipe de Judá; se los entregó contando uno por uno; quien, según los rabinos judíos, como dice Jarchi, era Daniel, quien recibió ese nombre porque soportó seis tribulaciones; sin embargo, no consta que Daniel haya ascendido a Jerusalén con el cautiverio, como lo hizo este hombre, sino que permaneció en Babilonia; más bien, siguiendo la interpretación de Aben Ezra, es más probable que se refiera a Zorobabel, quien sí ascendió y fue el príncipe de Judá. Además, Ciro, en su carta (q) a los gobernadores de Siria, declara explícitamente que entregó los utensilios a Zorobabel, el príncipe de los judíos. Tenía dos nombres: Sesbasar, que significa \"se regocijó en la tribulación\", y Zorobabel, que podría significar \"semilla de Babilonia\", habiendo nacido allí, o \"disperso\" o \"extranjero\", según otras interpretaciones.\n\n(q) Apud Joseph. Antiqu. l. 11. c. 1. sect. 3."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 9,
+   "ate_capitulo": 1,
+   "ate_versiculo": 9,
+   "texto": "Y este es el número de ellos,.... De los buques entregados, los siguientes:\n\ntreinta recipientes de oro, mil recipientes de plata; según Ben Melech, estos eran vasijas en las que se vertía agua para lavarse las manos; sin embargo, como observa Aben Ezra, basándose en el Talmud de Jerusalén (r), eran recipientes en los que se recogía la sangre de los corderos y los toros sacrificados.\n\nveintinueve cuchillos; estos, debido a que sus mangos eran de oro o plata, eran valiosos y podrían ser cuchillos de gran tamaño, utilizados por los sacerdotes para sacrificar y desmembrar los animales.\n\n(r) T. Hieros. Yoma, fol. 41. 1."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 10,
+   "ate_capitulo": 1,
+   "ate_versiculo": 10,
+   "texto": "Treinta cubetas de oro,.... Copas o recipientes con tapas, como parece indicar la palabra; sin embargo, según Jarchi y Aben Ezra, eran vasijas en las que se recogía la sangre de los sacrificios, y desde las cuales se rociaba sobre el altar.\n\nCuencos de plata de segunda calidad: cuatrocientos diez; quizás de menor tamaño que los otros, aunque no menos valiosos por estar hechos de plata. En los textos apócrifos: \"Y este fue el número de ellos: mil copas de oro, y mil de plata, veinte y nueve incensarios de plata, treinta cálices de oro, y dos mil cuatrocientos diez de plata, y mil otros recipientes\" (1 Esdras 2:13). El número es 2410; y en la carta de Ciro, mencionada anteriormente, es 2400.\n\nY otros recipientes: mil; que no se mencionan específicamente. Junius y Tremellius traducen las palabras:\n\n\"otros recipientes en miles, siendo casi 3000 que no se describen\"."
+  },
+  {
+   "capitulo": 1,
+   "versiculo": 11,
+   "ate_capitulo": 1,
+   "ate_versiculo": 11,
+   "texto": "Todos los recipientes de oro y de plata eran cinco mil cuatrocientos,.... Los recipientes mencionados no superan los 2499, y Aben Ezra cree que estos eran los recipientes más grandes; sin embargo, esta cantidad total incluye tanto recipientes grandes como pequeños. Como se menciona en 2 Crónicas 36:18, en la carta de Ciro, que se mencionó anteriormente, estos recipientes se describen con más detalle, y se indica su número individual, lo que en conjunto suma el número exacto que aparece en el texto, 5400. El libro de Esdras apócrifo indica un número de 5469.\n\nTodos estos objetos los trajo Sesbazar junto con los cautivos que habían sido trasladados de Babilonia a Jerusalén. Se ofrece un relato detallado y extenso de estos objetos en el capítulo siguiente."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 1,
+   "ate_capitulo": 2,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 2\n\nEste capítulo contiene una lista de las personas que regresaron de Babilonia a Jerusalén, incluyendo a sus líderes, sus principales hombres, príncipes y sacerdotes (Ezra 2:1). Se describe a la gente por sus familias, pueblos y ciudades, así como por el número de personas (Ezra 2:3). También se mencionan a los sacerdotes, los levitas y los netinín (Ezra 2:36), y a aquellos cuya genealogía no pudo ser determinada, tanto personas como sacerdotes (Ezra 2:59). A continuación, se proporciona el número total de la congregación (Ezra 2:64), además de hombres y sirvientas, cantantes, hombres y mujeres, y ganado de diversas clases (Ezra 2:65). El capítulo concluye con un relato de las ofrendas voluntarias de los principales hombres para la construcción del templo, y del asentamiento de la gente en sus respectivas ciudades (Ezra 2:68).\n\nEstos son los habitantes de la provincia,.... Ya sea de la provincia de Babilonia, como sugiere Aben Ezra, donde nacieron o residieron durante muchos años; o, más probablemente, según Jarchi, de la provincia de Judea, como se la conoce. Ezequiel 5:8 describe una vez un reino próspero, pero que fue reducido a una provincia de la monarquía babilónica, y que ahora está en manos de los medos y los persas. Ellos y sus antepasados eran originarios de esa provincia.\n\nque salieron de la cautividad, de aquellos que habían sido llevados, a quienes Nabucodonosor, rey de Babilonia, había deportado a Babilonia; quienes, ya sea ellos mismos o sus padres, fueron llevados cautivos por él, y que pertenecían a las tribus de Judá y Benjamín; y se mencionan solo porque fueron los principales que regresaron, aunque también hubo miembros de otras tribus que los acompañaron:\n\ny regresaron a Jerusalén y Judá, cada uno a su ciudad, donde había vivido antes, o que ahora se le asignaba por sorteo, véase Nehemías 11:1, etc."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 2,
+   "ate_capitulo": 2,
+   "ate_versiculo": 2,
+   "texto": "¿Quiénes llegaron con Zorobabel?.... El principal de ellos era el príncipe de Judá, y los diez siguientes que lo acompañaban son: Jeshua, Nehemías, Seraías, Reelaías, Mordecai, Bilshan, Mispar, Bigvai, Rehum y Baanah. El primero de estos, Jeshua, era Josué, el sumo sacerdote, hijo de Josedec, según Hageo 1:1. El Dr. Lightfoot (s) cree que Nehemías es la misma persona, cuyo nombre lleva el libro siguiente, y que Mordecai es el tío de Ester, según Aben Ezra. Sin embargo, si esto fuera así, ambos deberían haber regresado, ya que Nehemías llegó a Jerusalén en el vigésimo año de Artajerjes, según Nehemías 1:1, y es cierto que Mordecai crió a su sobrina en la ciudad de Susán, durante el reinado de Asuero. Otros (t) niegan esto con respecto a ambos, y sostienen que son hombres diferentes con el mismo nombre. El mismo autor opina que Seraías, y quien se llama Azarías, según Nehemías 7:7, es la misma persona que Esdras, quien por lo tanto debió y regresó, ya que ascendió a Jerusalén en el séptimo año de Artajerjes, según Esdras 7:1. En cuanto a los demás, no sabemos nada más de ellos que sus nombres.\n\nEl número de los hombres del pueblo de Israel, ya sean los principales mencionados anteriormente, o el resto del pueblo, que se detalla a continuación.\n\n(s) Works, vol. 1. p. 127. So Broughton, Works, p. 258.\n(t) Vid. Rainold. de Libr. Apocryph. Praelect. 111, 117, 148."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 3,
+   "ate_capitulo": 2,
+   "ate_versiculo": 3,
+   "texto": "Los habitantes de Parosh eran dos mil ciento setenta y dos. A partir de aquí, hasta el final de Ezra 2:35, se presenta una lista de los cautivos que regresaron, descritos por las familias a las que pertenecían, sus antepasados, los lugares de origen o las ciudades a las que originalmente pertenecían, y por su número. De lo contrario, no se conoce más información sobre ellos."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 36,
+   "ate_capitulo": 2,
+   "ate_versiculo": 36,
+   "texto": "Los sacerdotes,.... Se describe su situación en estos versículos y en los tres siguientes, y se mencionan solo cuatro familias: las de Jedaías, Immer, Pasur y Harim, cuyo número total fue de 4289. Según los judíos, estas familias eran los líderes de cuatro grupos, que representaban a todos los que regresaron de Babilonia (u).\n\n(u) T. Hieros. Taanioth, fol. 68. 1."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 40,
+   "ate_capitulo": 2,
+   "ate_versiculo": 40,
+   "texto": "Los levitas,.... Los cantores y los encargados del equipaje, que se mencionan en estos versículos y en los dos siguientes, cuyo número no superaba los trescientos cuarenta y uno; mientras que en los tiempos de David, eran 38.000, según 1 Crónicas 23:3."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 43,
+   "ate_capitulo": 2,
+   "ate_versiculo": 43,
+   "texto": "Los netinín,.... Según Aben Ezra y Jarchi, se cree que eran los habitantes de Gibeón, quienes fueron \"asignados\" por Josué a la congregación, como indica la palabra \"netineos\", para que trabajaran como leñadores y cargadores de agua. Sin embargo, es más probable que fueran aquellos que David asignó para ayudar a los levitas. Se proporciona información sobre ellos desde este punto hasta el final de Ezra 2:58, junto con aquellos que descendían de los sirvientes de Salomón, quienes parecen ser los restos de los cananeos que vivían en la tierra, a quienes Salomón convirtió en siervos, como se menciona en 1 Reyes 9:20. Estos, junto con su descendencia, se convirtieron en prosélitos, o bien, eran descendientes de hombres que eran sirvientes domésticos de Salomón y que se enorgullecían de ello. El número total de los \"netineos\" y estos últimos era de trescientos noventa y dos."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 59,
+   "ate_capitulo": 2,
+   "ate_versiculo": 59,
+   "texto": "Y estos fueron los que subieron desde Telmelá y Telharsa,.... Lugares en la tierra de Babilonia, véase Isaías 37:12.\n\nCherub, Addan e Immer; pero no pudieron mostrar la casa de su padre, ni su linaje, para demostrar que eran israelitas. Eran personas que profesaban la religión judía y se hacían pasar por judíos en Babilonia, pero no podían rastrear su ascendencia, ni identificar a qué familia pertenecían, quiénes eran sus antepasados, ni dónde habían vivido en Judea. Habían perdido sus registros genealógicos, si es que alguna vez los tuvieron, y no podían determinar si sus padres eran israelitas o gentiles convertidos; o eran personas que habían sido abandonadas y recogidas de las calles, y cuyos padres eran desconocidos."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 60,
+   "ate_capitulo": 2,
+   "ate_versiculo": 60,
+   "texto": "Los hijos de Delaías, los hijos de Tobías y los hijos de Necoda, fueron seiscientos cincuenta y dos. Aunque se conocía a sus padres directos, el hecho de que se mencionen aquí sugiere que no pudieron rastrear su genealogía más allá de este punto, y que no pudieron determinar claramente el linaje de sus padres o el origen de su familia."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 61,
+   "ate_capitulo": 2,
+   "ate_versiculo": 61,
+   "texto": "Y de los hijos de los sacerdotes,.... Quien no pudiera determinar su linaje, ya que aquellos que sí pudieron hacerlo, se mencionaron anteriormente:\n\nlos hijos de Habaya, los hijos de Koz, los hijos de Barzilai; la siguiente es la explicación de cómo este último obtuvo ese nombre:\n\nUn hombre se casó con una de las hijas de Barzilai, el gitonita, y fue llamado por su nombre. Este hombre contrajo matrimonio con una mujer descendiente del famoso Barzilai, el gitonita, en los tiempos de David. Debido a que el sacerdocio estaba en desuso y era considerado insignificante y despreciable en Babilonia, este hombre decidió adoptar el apellido de la familia de su esposa, haciéndose pasar por un descendiente de esa familia, y quizás destruyó, o al menos descuidó, el cuidado de la genealogía de su propia familia."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 62,
+   "ate_capitulo": 2,
+   "ate_versiculo": 62,
+   "texto": "Estos buscaron su registro entre aquellos que eran reconocidos por su linaje,.... Para encontrar sus nombres registrados allí; porque los judíos mantenían registros públicos de sus sacerdotes, de su linaje, de sus matrimonios y de sus descendientes, para que se supiera quiénes eran aptos y quiénes no para ejercer ese cargo:\n\npero no se encontraron; sus nombres no estaban allí, ni se hizo constar su presencia:\n\npor lo tanto, fueron considerados impuros y excluidos del sacerdocio; no se les permitió acercarse al altar, ofrecer sacrificios ni disfrutar de los privilegios que correspondían a ese cargo."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 63,
+   "ate_capitulo": 2,
+   "ate_versiculo": 63,
+   "texto": "Y el gobernador les dijo,.... Según la interpretación de Jarchi, Nehemías es el personaje al que se refiere, y señala que los rabinos afirman que recibió ese nombre porque los sabios le permitieron beber el vino de los gentiles, ya que era el copero del rey. Sin embargo, Aben Ezra, con mayor probabilidad, considera que es un nombre de honor y grandeza en la lengua aramea, refiriéndose a un príncipe o gobernador. No hay duda de que se refiere a Zorobabel, el príncipe de los judíos, que es lo mismo que Sesbasar, según Ez 1:8, según Gussetius (w). Este cargo era equivalente al de un comisario real en una provincia, encargado de transmitir las órdenes del rey, hacerlas conocer y supervisar su cumplimiento. Además, el nombre Tirshatha es lo mismo que Tithraustes según Aelian (x), aunque esto último parece ser el nombre personal de un hombre que era un chiliarca, y no el título de un cargo.\n\nque no debían comer de las cosas más sagradas; como del pan de la proposición, y de las partes de los sacrificios por el pecado, y de las ofrendas de paz y de las ofrendas de harina, que pertenecían a los sacerdotes, de las cuales el gobernador prohibió que comieran aquellos que habían sido excluidos del sacerdocio:\n\nhasta que se levantara un sacerdote con el Urim y el Tumim; aún no había ningún sacerdote que los tuviera; no se encontraron al regresar de Babilonia; el gobernador podía esperar que se encontraran, y que un sacerdote apareciera vestido con ellos, para que pudieran consultar al Señor a través de ellos, y así determinar si esos sacerdotes, descritos anteriormente, podían comer de las cosas sagradas o no; pero dado que los judíos reconocen que esta fue una de las cinco cosas que faltaban en el segundo templo (y); es lo mismo, como expresan los talmudistas (z), como si se hubiera dicho: \"hasta que los muertos resuciten, o que venga el Mesías\"; y este ha venido, el verdadero Sumo Sacerdote, y con él están los verdaderos Urim y Tumim, luces y perfecciones en el más alto grado, llenos de gracia y verdad. Sobre el Urim y el Tumim, véase la obra de Gill sobre Éxodo 28:30.\n\n(w) Ebr. Comment. p. 809.\n(x) Var. Hist. l. 1. c. 21. Vid. Corn. Nep. Vit. Conon. l. 9. c. 3.\n(y) T. Bab. Yoma, fol. 21. 2.\n(z) T. Bab. Sotah, fol. 48. 2. & Gloss. in Kiddushin, fol. 60. 2."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 64,
+   "ate_capitulo": 2,
+   "ate_versiculo": 64,
+   "texto": "La totalidad de la congregación, en conjunto, sumaba cuarenta y dos mil trescientos y sesenta. Sin embargo, las cifras mencionadas anteriormente, junto con Zorobabel y los diez principales líderes, suman un total de 29.829, lo que significa que faltan más de 12.000 personas. Por lo tanto, en respuesta a la pregunta de dónde están esos 12.000, los judíos afirman en su cronología (a) que se trata de los miembros de las otras tribus, quienes establecieron el altar sobre sus bases y proporcionaron fondos a los albañiles, etc. (Esdras 3:1). Este fue un número mucho mayor que el de los cautivos; véase 2 Reyes 24:14, pero no comparable con el número de personas que salieron de Egipto (Éxodo 12:37). Un escritor árabe (b) cifra este número en 50.000, pero esto es incorrecto.\n\n(a) Seder Olam Rabba, c. 29. p. 86.\n(b) Abulpharag. Hist. Dynast. Dyn. 5. p. 82."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 65,
+   "ate_capitulo": 2,
+   "ate_versiculo": 65,
+   "texto": "Además de sus sirvientes y sus doncellas, de los cuales había siete mil trescientos treinta y siete,.... Esto demuestra que la mayoría de los que regresaron pertenecían a los sectores más humildes, ya que había muy pocos sirvientes a su servicio; estos últimos no se incluyeron en el cálculo anterior.\n\ny entre ellos había doscientos hombres y mujeres que cantaban; entre los sirvientes, que eran mantenidos por personas importantes para su placer y entretenimiento, como se menciona en Eclesiastés 2:8; aunque no está tan claro que estos fueran empleados en servicios religiosos, especialmente los últimos, aunque algunos lo deducen de 1 Crónicas 25:5, es más probable que fueran empleados en bodas, festividades y funerales; sin embargo, Jarchi cree que fueron empleados por los cautivos que regresaban, para animarlos durante su viaje; véase Gill sobre Isaías 55:12."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 66,
+   "ate_capitulo": 2,
+   "ate_versiculo": 66,
+   "texto": "Dado que la mayor parte de ellos debió caminar a pie, ya que estos animales probablemente solo eran suficientes para transportar sus bienes o equipaje; algunas versiones de la Vulgata latina mencionan seiscientos treinta y seis caballos (c).\n\n(c) Ed. of Sixtus V. and the Lovain in James's Contrariety of Popish Bibles, p. 295."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 68,
+   "ate_capitulo": 2,
+   "ate_versiculo": 68,
+   "texto": "Y algunos de los principales líderes, cuando llegaron a la casa del Señor, que está en Jerusalén,.... Es decir, cuando llegaron al lugar donde antes se encontraba, y donde aún se podían ver las ruinas.\n\nofrecidos libremente para la casa de Dios, con el fin de establecerla en su lugar; para reconstruirla en el mismo sitio donde se encontraba anteriormente; esto lo hicieron, además de las ofrendas voluntarias que trajeron consigo desde Babilonia."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 69,
+   "ate_capitulo": 2,
+   "ate_versiculo": 69,
+   "texto": "Donaron, según sus posibilidades, un total de sesenta y un mil dracmas de oro al tesoro del mundo,.... Estas \"darcemonas\" o \"daricos\" eran monedas persas; una de ellas, según Brerewood (k), tenía un valor equivalente a quince chelines de nuestra moneda, por lo que esta cantidad representaba 45.750 libras; sin embargo, según el obispo Cumberland (l), su valor era de veinte chelines y cuatro peniques de nuestra moneda, lo que equivalía a más de 61.000 libras. Cada persona, según sus posibilidades, depositaba esta cantidad en el fondo común o tesorería para financiar la construcción del templo; la Vulgata latina (m) indica la cifra de 40.000.\n\ny cinco mil libras de plata; y una \"mina\" hebrea, que equivale a una libra, y que según Brerewood (n) tiene un valor de siete libras y diez chelines, sumaba 31.250 libras; pero otros (o), que calculan el valor de un dracma de oro en diez chelines y el de una mina o libra de plata en nueve libras, estiman que el total asciende solo a 75.500 libras de nuestra moneda:\n\ny cien vestimentas sacerdotales; que, al igual que otros tesoros, eran necesarias para el servicio del templo.\n\n(k) De Pret. & Ponder. Vet. Num. ch. iii. v.\n(l) Scripture Weights & Measures, ch. 4. p. 115.\n(m) Sixtus V. Lovain & MSS. in James ut supra. (Contrariety of Popish Bibles, p. 295)\n(n) Ut supra, (De Pret. & Ponder. Vet. Num.) ch. iv. v.\n(o) Universal History, vol. 10. p. 183, marg."
+  },
+  {
+   "capitulo": 2,
+   "versiculo": 70,
+   "ate_capitulo": 2,
+   "ate_versiculo": 70,
+   "texto": "Así, los sacerdotes y los levitas, junto con parte del pueblo, los cantores y los netinín, vivían en sus respectivas ciudades,.... A las cuales fueron asignadas, de entre las diversas tribus, y en las cuales ellos o sus antepasados habían habitado antes del exilio.\n\ny todo Israel, en sus ciudades; así como los de las tribus de Judá y Benjamín, también los de las otras diez tribus, todos aquellos que regresaron y se unieron a los que quedaron en la tierra."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 1,
+   "ate_capitulo": 3,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 3\n\nEste capítulo relata cómo el pueblo de Israel regresó del cautiverio, se reunió en Jerusalén y colocó el altar, donde se ofrecían sacrificios (Ezra 3:1), y celebró la fiesta de los tabernáculos, ofreciendo los sacrificios correspondientes a esa festividad, además del sacrificio diario y de otras festividades; y contribuyó a los trabajadores que se dedicaban a la construcción del templo (Ezra 3:4). También se inició la construcción, comenzando con la colocación de los cimientos. Esto causó alegría a algunos y tristeza a otros, por diferentes razones (Ezra 3:8).\n\nY cuando llegó el séptimo mes,.... El mes de Tisri, que corresponde a parte de septiembre y octubre; o cuando \"se acercaba\" (p), ya que antes de que realmente llegara, se llevaron a cabo ciertas acciones: la gente se reunió y se construyó un altar; porque el primer día de este mes se ofrecían sacrificios, como se menciona en Ezra 3:6.\n\ny los hijos de Israel estaban en las ciudades; en sus respectivas ciudades, ocupándose de sus asuntos domésticos:\n\nel pueblo se reunió como un solo hombre en Jerusalén; la acción fue universal, y se llevó a cabo con la misma rapidez como si solo una persona estuviera involucrada; y parece indicar que estaban impulsados por una fuerza divina, y se reunieron sin ninguna consulta, ni conocimiento de los planes de los demás, y sin ninguna convocatoria.\n\n(p) \"cum appropinquaret\", Piscator."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 2,
+   "ate_capitulo": 3,
+   "ate_versiculo": 2,
+   "texto": "Entonces, Jeshua, hijo de Jozadak, se levantó,.... ¿Quién era el sumo sacerdote y quién era la persona adecuada para liderar el siguiente trabajo?\n\ny sus hermanos, los sacerdotes; los sacerdotes comunes, muy aptos para unirse a él y ayudarle en ello:\n\ny Zorobabel, hijo de Salai; el príncipe y gobernador de Judá, cuya presencia era necesaria para respaldar la obra e inspirarla:\n\ny sus hermanos; los príncipes y líderes del pueblo, especialmente aquellos mencionados en Ezra 2:2:\n\ny construyeron el altar del Dios de Israel; el altar de los sacrificios, y dieron órdenes para su construcción, así como instrucciones sobre él:\n\npara ofrecer sacrificios sobre él, como está escrito en la ley de Moisés, el hombre de Dios; o profeta de Dios, según la versión siríaca; véase Levítico 1:1."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 3,
+   "ate_capitulo": 3,
+   "ate_versiculo": 3,
+   "texto": "Y colocaron el altar sobre sus soportes,.... Quizás lo que quedaba del antiguo altar; o, quizás, lo que se quiere decir es que se colocó y fijó en el mismo lugar donde estaba antes.\n\nDebido al temor que sentían por la gente de esos países, se apresuraron a construir un altar y a ofrecer sacrificios al Señor, con la esperanza de que él se manifestara en su favor y los ayudara contra sus enemigos; o, más precisamente, como algunos interpretan las palabras \"(q) 'aunque el temor los invadió'\", sin embargo, no se dejaron disuadir de su trabajo, de su culto y de su servicio a Dios.\n\nOfrecían sacrificios de fuego al Señor, sacrificios de fuego, por la mañana y por la noche, el sacrificio diario, tal como se indica en Éxodo 29:38.\n\n(q) \"quamvis\", Junius & Tremellius, Piscator, Patrick."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 4,
+   "ate_capitulo": 3,
+   "ate_versiculo": 4,
+   "texto": "También celebraron la fiesta de los tabernáculos, como está escrito,.... Según las normas establecidas para su cumplimiento en Levítico 23:34, esta festividad comenzó el día quince del séptimo mes.\n\ny ofrecieron los sacrificios diarios de fuego, según el número establecido por la costumbre, tal como lo exigía la obligación de cada día; porque durante los ocho días de la fiesta, se había fijado un número determinado de sacrificios para cada día; y exactamente según la ley que los regulaba, los ofrecieron en esta ocasión; véase Números 29:12."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 5,
+   "ate_capitulo": 3,
+   "ate_versiculo": 5,
+   "texto": "Y después, ofreció la ofrenda de holocaustos continua,.... No después de la fiesta de los tabernáculos, como si entonces comenzaran a ofrecer el sacrificio diario; pues hicieron eso tan pronto como se instaló el altar, y el primer día del mes, según Ez 3:3. Más bien, lo que se quiere decir es que, después del sacrificio de la mañana, ofrecían los demás sacrificios propios de cada día de la fiesta de los tabernáculos; nunca dejaron de hacerlo, sino que siempre comenzaban con ello; todos los demás sacrificios se ofrecían después, y así en otras festividades.\n\ntanto de las nuevas lunas, como de todas las fiestas establecidas por el Señor que estaban santificadas; para el servicio del Señor y el honor de su nombre, como cada primer día del mes y cada otra festividad designada, ofrecían los sacrificios apropiados para cada una; pero sin descuidar ese sacrificio, y siempre después de él.\n\nY de todos aquellos que ofrecían voluntariamente una ofrenda libre al Señor, también se aseguraban de ofrecerla en su momento oportuno."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 6,
+   "ate_capitulo": 3,
+   "ate_versiculo": 6,
+   "texto": "Desde el primer día del séptimo mes, comenzaron a ofrecer sacrificios de holocaustos al Señor,.... Y ese día no solo fue de luna nueva, sino también de una gran fiesta, el día del sonido de las trompetas, según Levítico 23:24, y sin duda observaron el décimo día de este mes, con todos sus ritos, que era el día de la expiación, según Levítico 23:27.\n\npero los cimientos del templo del Señor aún no se habían colocado; primero comenzaron con sacrificios, para dar gracias a Dios por su regreso a su propia tierra y por todos los beneficios que disfrutaban, y para expiar sus pecados de una manera simbólica, con el fin de estar más preparados y aptos para la tarea de construir el templo; o, aunque los \"cimientos\" de este aún no se habían colocado (z), ofrecieron los sacrificios mencionados.\n\n(z) Etsi, Michaelis."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 7,
+   "ate_capitulo": 3,
+   "ate_versiculo": 7,
+   "texto": "También dieron dinero a los albañiles y a los carpinteros,.... Para comprar la piedra y la madera necesarias para la construcción del templo:\n\ny les ofrecieron carne, vino y aceite a los habitantes de Sidón y a los de Tiro; lo cual les resultó más útil que el dinero, porque no había abundancia de tales productos en su país, como en la tierra de Israel:\n\npara traer árboles de cedro desde el Líbano hasta el mar de Jope; como lo hicieron en la primera construcción del templo por el rey Salomón; talaron cedros en el Líbano, que les pertenecían, y los enviaron por mar a Jope, el puerto marítimo más cercano a Jerusalén, a unos cuarenta kilómetros de distancia: véase 2 Crónicas 2:16.\n\nde acuerdo con la concesión que les había otorgado Ciro, rey de Persia; ya que tanto Tiro como Sidón estaban bajo su dominio, al igual que Judea, él no solo permitió a los judíos obtener madera de cedro del Líbano, sino que ordenó a los habitantes de Sidón y Tiro que se la proporcionaran, pagándoles una suma considerable por ella; y algunos (a) traducen la palabra como \"según el mandato de Ciro\".\n\n(a) \"juxta praeceptum\", Vatablus; \"juxta quod praeceperat\", V. L. So Ben Melech."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 8,
+   "ate_capitulo": 3,
+   "ate_versiculo": 8,
+   "texto": "Ahora, en el segundo año de su estancia en la casa de Dios en Jerusalén,.... El lugar donde se encontraba anteriormente; parece ser que los judíos partieron de Babilonia en la primavera del año anterior, como era ahora; y el viaje a Jerusalén duraba aproximadamente cuatro meses, como lo realizó Esdras (Esdras 7:9), aunque podría haber tomado más tiempo para un grupo de personas de mayor tamaño; por lo tanto, después de visitar sus respectivas ciudades y resolver sus asuntos allí, llegaron a Jerusalén en el séptimo mes, es decir, en septiembre, y celebraron la fiesta de los tabernáculos. Luego, regresaron a sus ciudades, ya que la temporada de invierno no era un momento adecuado para comenzar la construcción del templo. Habían proporcionado dinero a los trabajadores para que compraran materiales, y sin duda dejaron un número suficiente de personas para limpiar los escombros y preparar todo para que, con la llegada de la primavera, pudieran comenzar los trabajos.\n\nEn el segundo mes; el mes de Ijar, como observa Jarchi, que corresponde a parte de abril y mayo, y en el que, como se puede suponer, se celebró la Pascua el mes anterior:\n\nComenzaron Zerubabel, hijo de Salatiel, y Jeshua, hijo de Jozadak: el príncipe y el sumo sacerdote:\n\nY el resto de sus hermanos, los sacerdotes y los levitas, y todos aquellos que habían regresado del cautiverio a Jerusalén; cuyos nombres y números se indican en el capítulo anterior:\n\nY se designó a los levitas, a partir de los veinte años de edad, para que llevaran a cabo la obra de la casa de Jehová; para poner a hombres a trabajar en ella, y darles instrucciones sobre lo que debían hacer, e instarles a prestarle atención con diligencia; desde los tiempos de David, los levitas eran empleados a partir de los veinte años de edad, cuando antes no era hasta los treinta o veinticinco; véase 1 Crónicas 23:24."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 9,
+   "ate_capitulo": 3,
+   "ate_versiculo": 9,
+   "texto": "Luego, Jeshua se levantó, junto con sus hijos,.... No se refiere a Jeshua, el sumo sacerdote mencionado anteriormente, sino a Jeshua, el levita, según Ez 2:40.\n\ny sus hermanos, Kadmiel y sus hijos, los hijos de Judá, todos juntos; lo mismo con Hodaviah, según Ezrah 2:40.\n\npara impulsar a los trabajadores en la casa de Dios; para darles instrucciones de que comiencen y pongan los cimientos, y para apresurarlos y motivarlos a hacerlo:\n\nlos hijos de Henadad, con sus hijos y sus hermanos los levitas: se mencionan dos de los hijos de este hombre en Nehemías 3:18."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 10,
+   "ate_capitulo": 3,
+   "ate_versiculo": 10,
+   "texto": "Y cuando los constructores colocaron los cimientos del templo del Señor,.... Los albañiles, que eran los encargados de la obra, (Ezra 3:7).\n\nColocaron a los sacerdotes con sus vestimentas y trompetas; estos fueron ubicados en un lugar adecuado por el príncipe y el sumo sacerdote, también con sus vestimentas sacerdotales, con trompetas en sus manos para tocar, mientras se colocaba la primera piedra:\n\nLos levitas, hijos de Asaf, tocaban címbalos para alabar al Señor, según la ordenanza de David, rey de Israel. Estos eran instrumentos de bronce que producían un sonido tintineante, y estaban organizados según las directrices de David, así como las personas que los tocaban y las canciones de alabanza que se interpretaban con ellos; todo según su designio, al igual que las arpas y las cítaras, que también podían utilizarse, aunque no se mencionan explícitamente; véase 1 Crónicas 15:16. De manera similar, cuando los messenios elevaron los muros de su ciudad, y construyeron sus casas y templos, participaron en la ceremonia con sacrificios y oraciones, así como con música y canto (b).\n\n(b) Pausan. Messenica, sive, l. 4. p. 368."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 11,
+   "ate_capitulo": 3,
+   "ate_versiculo": 11,
+   "texto": "Y cantaron juntos, por secciones,.... Cantaban por turnos, respondiendo y complementándose mutuamente, tal como indica la palabra; cuando un grupo había cumplido su parte, otro tomaba la suya.\n\nal alabar y dar gracias al Señor; por devolverlos a su propia tierra, y por darles la oportunidad, la capacidad y la voluntad de emprender la reconstrucción del templo del Señor, y de restaurar la adoración pura a Dios:\n\nporque Él es bueno, porque su misericordia perdura para siempre hacia Israel; palabras que se repiten con frecuencia en el Salmo 136:1, y que podrían ser el salmo que los levitas ahora cantaban en forma de respuesta:\n\ny todo el pueblo gritó con gran júbilo al alabar al Señor; para expresar su alegría, de la mejor manera que pudieron, en esta ocasión solemne:\n\nporque se había colocado la piedra fundamental de la casa del Señor; lo que les dio la esperanza de que el templo sería reconstruido en su debido tiempo, y que su servicio sería restaurado; véase Job 38:6."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 12,
+   "ate_capitulo": 3,
+   "ate_versiculo": 12,
+   "texto": "Pero muchos de los sacerdotes y levitas, así como los principales de las familias, que eran hombres ancianos,.... Setenta u ochenta años de edad:\n\nque había visto el primer templo; el templo construido por Salomón, como muy bien pudieron, ya que entonces habían transcurrido solo cincuenta y dos años desde su destrucción; porque los setenta años de cautiverio deben contarse a partir del reinado de Joacim, cuando comenzó, y que fueron dieciocho años antes de la destrucción del templo; el comienzo de la siguiente frase:\n\n\"cuando en sus cimientos\", según los acentos hebreos, debe conectarse con esto:\n\nque había visto el primer templo; no \"cuando se fundó por primera vez\", porque eso fue hace quinientos años, sino \"en sus cimientos\"; lo vieron erguido sobre sus cimientos, en toda su gloria, y así lo dice la versión de los Setenta; y podemos continuar leyendo:\n\n\"cuando este templo estaba ante sus ojos, lloraron con voz fuerte\"; al ver cómo era estar cerca de los cimientos que ahora se estaban colocando, y cómo, en comparación con el anterior, parecía insignificante; véase Amós 2:3, pero Aben Ezra conecta esta frase como nosotros:\n\n\"cuando se colocaron los cimientos de este templo\"; no que las dimensiones de este templo, tomadas estrictamente, fueran tan grandes como las del anterior: véase Esdras 6:3, pero no los patios y las dependencias que lo acompañaban. Además, no había probabilidad de que estuviera tan ricamente decorado con oro y plata como el templo anterior, y le faltarían muchas cosas, como el Urim y el Tumim, etc.\n\ny muchos gritaron con alegría; los más jóvenes, que nunca habían visto la grandeza del primer templo, y que estaban muy contentos con el comienzo de este, y con la esperanza de verlo terminado."
+  },
+  {
+   "capitulo": 3,
+   "versiculo": 13,
+   "ate_capitulo": 3,
+   "ate_versiculo": 13,
+   "texto": "Para que la gente no pudiera distinguir el sonido de los gritos de alegría del sonido de los llantos del pueblo,.... Es decir, no estaban claramente y distintamente definidos, sino que estaban tan mezclados y confundidos entre sí, y producían una disonancia tan desagradable:\n\nLa gente gritaba con fuerza, y el ruido se escuchaba a lo lejos; los gritos provenían de jóvenes, cuya voz era más potente y que eran los más numerosos, por lo que el ruido de los gritos superaba al del llanto; y se escuchaba aún más lejos, y a distancia parecía ser claramente el ruido de los gritos, mientras que el del llanto no llegaba tan lejos; aunque Jarchi opina que el ruido del llanto se escuchaba más lejos que el de los gritos, lo cual es poco probable."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 1,
+   "ate_capitulo": 4,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 4\n\nEl contenido de este capítulo presenta la oferta que los samaritanos hicieron a los judíos, para ayudarlos en la construcción del templo. Al ser rechazada esta oferta, los samaritanos les causaron todos los problemas que pudieron, como se describe en Ezra 4:1. También se incluye una carta que los samaritanos enviaron a Artajerjes, rey de Persia, llena de acusaciones contra los judíos (Ezra 4:7), y la respuesta de Artajerjes a esa carta, en la que ordenaba que se prohibiera a los judíos continuar la construcción del templo (Ezra 4:17). Estas órdenes se cumplieron, y la obra se detuvo hasta el segundo año del reinado de Darío (Ezra 4:23).\n\nAhora bien, cuando los enemigos de Judá y Benjamín,.... Los samaritanos, como se puede observar en Ezra 4:2,\n\nSe supo que los hijos del cautiverio, los judíos que habían estado en cautiverio durante setenta años y que acababan de salir de él, y que aún no eran completamente libres, sino que estaban bajo la jurisdicción y el control del rey de Persia:\n\nconstruyeron el templo del Señor Dios de Israel; que estaban trabajando en ello y que ya habían colocado los cimientos, lo cual pronto podría llegar a sus oídos, ya que la distancia no era muy grande. Josefo (c) dice que escucharon el sonido de las trompetas y comprendieron su significado.\n\n(c) Antiqu. l. 11. c. 4. sect. 3."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 2,
+   "ate_capitulo": 4,
+   "ate_versiculo": 2,
+   "texto": "Luego, se acercaron a Zorobabel y al jefe de los patriarcas,.... A estas personas se dirigieron, conscientes de que si no lograban persuadirlas, nunca podrían llevar a cabo su plan; y sin duda, estas eran las principales figuras entre los samaritanos que estaban involucradas.\n\ny les dijo: \"Construyamos con ustedes\". Es decir, el templo. Ellos propusieron unirse a ellos y ayudarlos en la construcción; una propuesta que, a primera vista, podría parecer muy atractiva y bienvenida, y lo habría sido si hubieran sido sinceros, pero no lo fueron. Esperaban, al mezclarse con ellos, sembrar la discordia y desunirlos; y así, mediante estos u otros medios, retrasar la construcción; o, si esta avanzaba, reclamarla como propia, al menos para establecer sus propios ídolos en una parte de ella. Las razones que dieron son las siguientes:\n\n\"Buscamos a vuestro Dios, como vosotros\", lo cual era falso, porque no adoraban solo a él, sino también a ídolos, ni de la misma manera que los judíos:\n\n\"Nosotros también le ofrecemos sacrificios\", pero incluso eso no podía recomendarles a los judíos, ya que no debían ofrecer sacrificios, ni siquiera al propio Señor, sino en Jerusalén. Aquí hay una lectura diferente; la lectura textual dice: \"Nosotros no ofrecemos sacrificios\", es decir, a ídolos; la lectura marginal dice: \"Nosotros ofrecemos sacrificios a él\", que es la que seguimos. Aben Ezra interpreta ambas, quizás con mayor precisión: \"Nosotros no ofrecemos sacrificios a ningún otro, sino a él\", lo cual también era falso:\n\n\"Desde los días de Asarhaddón, rey de Asiria, que nos trajo hasta aquí, a Samaria, desde Babilonia y otros lugares\". Ver 2 Reyes 17:24."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 3,
+   "ate_capitulo": 4,
+   "ate_versiculo": 3,
+   "texto": "Pero Zorobabel, Josué y el resto de los principales y jefes de las familias les dijeron,.... El príncipe, el sumo sacerdote y el líder del pueblo:\n\nno tienen nada que ver con nosotros en la construcción de un templo para nuestro Dios; ni son de la misma nación, ni de la misma religión:\n\npero nosotros mismos, juntos, construiremos para el Señor, Dios de Israel; nosotros solamente, quienes estamos unidos como un solo hombre, formando un mismo cuerpo de personas y compartiendo los mismos sentimientos religiosos, siendo israelitas; nosotros, individualmente, sin admitir a extraños entre nosotros, construiremos un templo para el Dios de Israel:\n\ncomo el rey Ciro, rey de Persia, nos ha ordenado; de esta manera, les hace saber que están actuando por su autoridad, y que la comisión que recibieron de él solo les concierne a ellos, y no a otros."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 4,
+   "ate_capitulo": 4,
+   "ate_versiculo": 4,
+   "texto": "Luego, los habitantes de la región debilitaron la determinación del pueblo de Judá y les causaron problemas en la construcción. Lo lograron amenazándolos, disuadiendo a los trabajadores de continuar, intentando impedir que obtuvieran materiales de los habitantes de Tiro y Sidón, o que consiguieran fondos de los ingresos reales para cubrir los gastos, como se indica en Ezra 6:4."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 5,
+   "ate_capitulo": 4,
+   "ate_versiculo": 5,
+   "texto": "Y contrataron consejeros para que actuaran en contra de ellos, con el objetivo de frustrar sus planes,.... Ya sea para aconsejar y persuadir a los funcionarios del rey de Persia en esas regiones para que no les proporcionaran fondos, o para influir en los hombres importantes de su corte para que lograran la revocación del edicto: y así lo hicieron.\n\nDurante todo el reinado de Ciro, rey de Persia, quien, a pesar de ser un amigo y protector de los judíos, se encontraba involucrado en guerras en el extranjero contra los lidios y los escitas, y dejó a su hijo como virrey en su ausencia, un hijo que no era amigo de los judíos, el trabajo avanzó lentamente, con interrupciones y desánimos.\n\nEsto continuó hasta el reinado de Darío, rey de Persia, que fue Darío Histaspo. Entre Darío y Ciro, se encontraron Cambises, hijo de Ciro, y Smerdis, el impostor, quien se hacía pasar por Smerdis, hermano de Cambises; un período de aproximadamente quince años."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 6,
+   "ate_capitulo": 4,
+   "ate_versiculo": 6,
+   "texto": "Y en el reinado de Asuero, al comienzo de su reinado,.... Según Jarchi, este fue Asuero, el esposo de Ester; sin embargo, como la mayoría piensa (d), se trata de Cambises, hijo y sucesor de Ciro; así lo afirma Joséfo (e), quien era enemigo de los egipcios y, temiendo que los judíos pudieran aliarse con ellos, no era favorable a los judíos. Por lo tanto, sus enemigos aprovecharon la muerte de Ciro y, en la primera oportunidad después de que Cambises asumió el trono, lo hicieron:\n\ny le escribieron una acusación contra los habitantes de Judá y Jerusalén, llena de odio y hostilidad, rencor y malicia, acusándolos de ser un pueblo inquieto, desobediente y rebelde.\n\n(d) Spanhem. Introduct. Chron. ad Hist. Eccl. p. 54. & Universal History, Vol. 5. p. 203. Prideaux, p. 175.\n(e) Ut supra, (Antiqu. l. 11. c. 4.) sect. 4, 6. Vid. R. David Ganz. Tzemach David, par. 2. fol. 8. 2. So Dr. Lightfoot, Works, vol. 1. p. 139."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 7,
+   "ate_capitulo": 4,
+   "ate_versiculo": 7,
+   "texto": "Y en los días de Artajerjes,.... Lo mismo ocurre con Asuero, en la versículo anterior; y también, ¿quién es Cambises?, que es su nombre según los autores paganos. Artajerjes es un nombre común entre los reyes de Persia; sin embargo, algunos (f) creen que este fue Smerdis, el mago e impostor, que reinó entre Cambises y Darío. Pero dado que solo gobernó durante siete meses, es poco probable que se le haya escrito y que se haya recibido una respuesta de él. Además, envió emisarios a todas las naciones que gobernaba (g), y también a los judíos, proclamando su liberación de impuestos y del servicio militar durante tres años, con el objetivo de ganarse su favor:\n\nBishlam, Mithredath, Tabeel y el resto de sus compañeros, o su grupo, escribieron esto; Jarchi cree que se refiere a una sola persona; que Mithredath Tabeel es el nombre de uno de los oponentes de Judá; y que Bishlam es un apelativo, que significa que escribió en paz, o como una forma de saludo; pero parece que son los nombres de gobernadores en las ciudades de Samaria, bajo el rey de Persia. Estos escribieron:\n\na Artajerjes, rey de Persia; instigados por los samaritanos.\n\nLa redacción de la carta fue escrita en la lengua siríaca, y fue interpretada en la lengua siríaca, o aramea, de la cual Ezra proporciona una copia en la lengua aramea; el significado es que fue escrita tanto en letras siríacas como en la lengua siríaca; a veces, las palabras se escriben en un idioma y con la escritura de otro, como el siríaco que a veces se escribe con caracteres hebreos, y el hebreo con caracteres romanos; o bien, se añadió un postscripto a esta carta, explicando algunas cosas que contenía, y que también fue escrito en el mismo idioma. Algunos interpretan (h) la palabra \"nishtevan\", que se traduce como \"escrito\", como el nombre de una provincia en las fronteras del país más allá del Éufrates, cuya imagen y caracteres eran muy apreciados y adecuados para escribir a los reyes; pero las palabras y el idioma eran siríacos, y necesitaban interpretación.\n\n(f) Prideaux's Connect. par. 1. p. 175. Authors of the Universal History, vol. 5. p. 199, 203. So Vitringa, Hypotypos. Hist. Sacr. p. 108.\n(g) Herodot. Thalia, sive, l. 3. c. 67. Justin. l. 1. c. 9.\n(h) Praefat. Arugas Habbosem apud Buxtorf. de liter. Heb. add."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 8,
+   "ate_capitulo": 4,
+   "ate_versiculo": 8,
+   "texto": "Rehum, el canciller, y Shimshai, el escriba, redactaron una carta contra Jerusalén dirigida al rey Artajerjes, con el siguiente contenido. Esto se refiere a la misma carta de la que se habló anteriormente; la cual, según Jarchi, fue enviada en nombre de Mithredath Tabeel y sus compañeros, y fue redactada por Rehum, maestro de la palabra o del significado, y escrita por Shimshai, el escriba, a quien se le atribuye ser hijo de Hamán (i); sin embargo, es más probable que haya sido escrita en nombre de todos ellos.\n\n(i) So Midrash Esther, fol. 85. 3."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 9,
+   "ate_capitulo": 4,
+   "ate_versiculo": 9,
+   "texto": "Luego, Rehum, el canciller, y Shimshai, el escriba, junto con el resto de sus compañeros, escribieron,.... quienes firmaron la carta; a saber, los gobernadores de las siguientes naciones:\n\nLos dinaítas, los afarsatquitas, los tarpelitas, los afarsitas, los archevitas, los babilonios, los susanquitas, los dehavitas y los elamitas; que eran colonias provenientes de diversas regiones de Caldea, Media y Persia, y que se establecieron en las diferentes ciudades de Samaria, como lo indican claramente algunos de sus nombres, como Persia, Erech, Babilonia, Susán y Elimais. Algunos los mencionan a todos, pero con incertidumbre. Según R. José (k), estos fueron los samaritanos que fueron enviados inicialmente de cinco naciones, a las cuales el rey de Asiria añadió cuatro más, lo que en conjunto da los nueve mencionados aquí, véase 2 Reyes 17:24.\n\n(k) Pirke Eliezer, c. 38."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 10,
+   "ate_capitulo": 4,
+   "ate_versiculo": 10,
+   "texto": "Y el resto de las naciones que el gran y noble Asnappar trajo consigo,.... El río Éufrates:\n\ny establecido en las ciudades de Samaria; colocado allí en la habitación de los israelitas que habían sido llevados cautivos; este Asnappar fue, según Jarchi y otros (l), Senacarrib; pero, siguiendo a Grocio, Salmanasar; más probablemente fue Esarhaddón, hijo del primero y nieto del segundo; así lo afirma el Dr. Prideaux (m); aunque también podría haber sido simplemente algún comandante del monarca asirio, quien los transportó por orden de este:\n\ny el resto que está al otro lado del río; el río Éufrates:\n\ny en tal momento; lo que podría referirse a la fecha de la carta, que sin duda fue especificada, aunque no se menciona aquí; o, como algunos creen, esto fue lo mismo que lo que sigue, \"al rey Artajerjes, saludos\", o algo similar; aunque David de Pomis (n) lo interpreta como el nombre general de la gente que vive al otro lado del río.\n\n(l) Kimchi Sepher Shorash. fol. 166. 2. & Vajikra Rabba in ib. T. Bab. Sanhedrin, fol. 94. 1.\n(m) Connexion, &c. vol. 1. p. 30.\n(n) Tzemach David, fol. 63. 3."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 11,
+   "ate_capitulo": 4,
+   "ate_versiculo": 11,
+   "texto": "Esta es la copia de la carta que le enviaron, directamente al rey Artajerjes,.... Lo que Ezra trajo consigo desde Babilonia, y que se encuentra en los cinco versículos siguientes:\n\n\"Mis siervos, los hombres de este lado del río, y en tal momento; este era el texto de la carta, o el comienzo de la misma.\""
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 12,
+   "ate_capitulo": 4,
+   "ate_versiculo": 12,
+   "texto": "Sea sabido por el rey,.... La intención de esta carta era que el rey estuviera informado de lo siguiente:\n\nque los judíos que vinieron de vuestra tierra a nosotros han llegado a Jerusalén; esto lo observan, en parte, por desprecio hacia los judíos, habiendo sido recientemente cautivos en Babilonia, y en parte, para insinuar la ingratitud de la que fueron culpables; que, habiendo obtenido su libertad y llegando a Jerusalén, la utilizaron en detrimento del rey:\n\nconstruyendo la ciudad rebelde y ruin; como sugieren que había sido para los reyes, incluso sus predecesores, en tiempos anteriores (Esdras 4:15).\n\ny han levantado sus muros y unido sus cimientos; lo cual era una falsedad; en realidad, lo que principalmente habían hecho era levantar los muros de sus casas en Jerusalén y establecer los cimientos del templo; en cuanto a los muros de la ciudad, aún no habían hecho nada."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 13,
+   "ate_capitulo": 4,
+   "ate_versiculo": 13,
+   "texto": "Sea sabido ahora por el rey,.... Y que él y sus consejeros lo consideren seriamente y a fondo:\n\nSi esta ciudad se construye y sus murallas se levantan de nuevo, entonces no pagarán peajes, tributos ni aranceles; podrán defenderse de las fuerzas del rey, enviadas para someterlos; estas tres palabras abarcan todo tipo de impuestos y gravámenes sobre personas, bienes y mercancías:\n\nY así, perjudicarán los ingresos de los reyes; no solo de él, sino también de sus sucesores:\n\nConsideraban que este sería un argumento muy contundente y persuasivo."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 14,
+   "ate_capitulo": 4,
+   "ate_versiculo": 14,
+   "texto": "Ahora, como contamos con el apoyo del palacio real para el mantenimiento,.... Existían cargos subordinados al rey, a los cuales se adjuntaban salarios, que eran la fuente de sustento de sus ocupantes y que provenían de las arcas reales (o); o, como se indica en el texto original, algunos cargos de honor y confianza que antiguamente se pagaban con sal. Por lo tanto, como observa Plinio (p), estos honores y recompensas se denominaban \"salarios\".\n\ny no era justo que presenciáramos la deshonra del rey; que viéramos cualquier acción perjudicial para su corona y dignidad, para su honor y sus ingresos, especialmente cuando estamos bajo su protección; esto sería ingrato e injusto:\n\npor lo tanto, hemos informado y certificado al rey sobre la veracidad de lo anteriormente mencionado; y, para una mayor confirmación, le remitimos a los antiguos registros del reino, como se indica a continuación.\n\n(o) \"salem vel sale\", Montanus, Vatablus, Michaelis.\n(p) Nat. Hist. l. 31. c. 7."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 15,
+   "ate_capitulo": 4,
+   "ate_versiculo": 15,
+   "texto": "Esa búsqueda puede realizarse en el libro de los registros de tus antepasados,.... Es decir, sus predecesores en la monarquía babilónica; sin embargo, dado que los medos y los persas formaban parte de ese imperio y se aliaron con los babilonios en sus guerras contra otros pueblos, especialmente contra los judíos, los registros de los medos y los persas también podrían aplicarse a:\n\nAsí lo encontrarás en el libro de los registros, y sabrás que esta ciudad es una ciudad rebelde, perjudicial para reyes y provincias, y que ha fomentado la sedición desde tiempos antiguos; contra el rey de Babilonia, especialmente durante los reinados de Joacim y Sedequías:\n\npor esta razón fue destruida esta ciudad, como lo fue por Nabucodonosor; consulta 2 Reyes 24:1."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 16,
+   "ate_capitulo": 4,
+   "ate_versiculo": 16,
+   "texto": "Certificamos al rey que, si esta ciudad es reconstruida y sus murallas se levantan de nuevo,.... Como era antes, y como ahora se intenta, según sugieren:\n\nDe esta manera, no tendrían ninguna posesión al otro lado del río, el Éufrates; lo que indicaba que los judíos no solo se liberarían de su yugo y se negarían a pagar tributos, sino que también se apoderarían de todos sus dominios al otro lado del río y los anexarían a su propio territorio."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 17,
+   "ate_capitulo": 4,
+   "ate_versiculo": 17,
+   "texto": "Entonces, el rey envió una respuesta a Rehum, el canciller, y a Shimshai, el escriba,.... Tras una evaluación, se determinó que este asunto era de importancia, por lo que el rey de Persia consideró oportuno enviar una respuesta a la carta mencionada, lo cual les brindaba un honor y les otorgaba el poder y la autoridad que deseaban.\n\ny a los demás compañeros que vivían en Samaria; en el reino, la provincia y las ciudades de Samaria:\n\ny a los demás que estaban más allá del río; al río Éufrates, y al resto de las naciones mencionadas anteriormente, según Ezras 4:9.\n\nPaz, y en un momento como este: es decir, toda salud y prosperidad, etc."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 18,
+   "ate_capitulo": 4,
+   "ate_versiculo": 18,
+   "texto": "La carta que nos enviaron,.... El número plural se utiliza, y ahora se considera un lenguaje formal y propio de los reyes, que así se refieren a sí mismos:\n\nMe ha sido evidente; fue leído por personas que entendían tanto el idioma siríaco como el persa; la carta estaba escrita en siríaco, y dado que el rey era persa, era necesario que se le interpretara y explicara."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 19,
+   "ate_capitulo": 4,
+   "ate_versiculo": 19,
+   "texto": "Y yo ordené, y se ha realizado una búsqueda,.... En los registros de sus predecesores, ya fueran caldeos o persas:\n\nY se observa que esta ciudad, de tiempos antiguos, ha levantado insurrecciones contra los reyes, y que la rebelión y la sedición se han manifestado en ella. Sin embargo, esto no se puede rastrear más allá de los tiempos de Sedequías y Joacim, como se mencionó anteriormente, lo cual no ocurrió hace ni cien años, a menos que se considere que la rebelión de Ezequías contra el rey de Asiria podría estar documentada en estos registros (2 Reyes 18:7). No obstante, a partir de esto se concluye que, en épocas pasadas, fueron culpables de rebelión y sedición, e incluso siempre."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 20,
+   "ate_capitulo": 4,
+   "ate_versiculo": 20,
+   "texto": "También hubo reyes poderosos en Jerusalén, que gobernaron sobre todas las tierras situadas al otro lado del río,.... Como David y Salomón; y los detalles de estos eventos los registraron en sus archivos, véase 2 Samuel 8:1.\n\nY se les pagaba un impuesto, un tributo y aranceles; como se puede observar en los documentos mencionados. Esto sirvió para reforzar la información que se le transmitió al rey, a saber, que si se permitía que estas personas continuaran construyendo, él perdería sus ingresos y tributos en esa región."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 21,
+   "ate_capitulo": 4,
+   "ate_versiculo": 21,
+   "texto": "Ordenen ahora que se detenga a estos hombres,.... Desde el edificio:\n\ny que esta ciudad no se construyera hasta que se le diera otra orden por mi parte; podría sospechar que este caso, en todas sus circunstancias, no se había presentado de manera precisa, y que en el futuro podría tener motivos para revocar las órdenes que había dado; y más aún, porque, al investigar y, quizás, por su propio conocimiento, debió haber observado que su padre, Ciro, había mostrado favor hacia los judíos, y no solo los había liberado, sino que los había animado a reconstruir su templo; lo cual podría ser el motivo de su preocupación, y de hecho lo era, y no era nada más, excepto sus casas donde vivir."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 22,
+   "ate_capitulo": 4,
+   "ate_versiculo": 22,
+   "texto": "Tengan cuidado de no dejar de hacer esto,.... Para llevar a cabo sus órdenes, y de manera inmediata, sin perder tiempo, obligó a los judíos a detener la reconstrucción de los muros de su ciudad, algo que, según le habían informado, estaban haciendo, aunque era una gran falsedad.\n\n¿Por qué deberían aumentar los daños en perjuicio de los reyes? ¿Por qué deberían verse privados, él y sus sucesores, de sus impuestos, tributos y aranceles, y sufrir insurrecciones, motines y rebeliones en los territorios que les pertenecen?"
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 23,
+   "ate_capitulo": 4,
+   "ate_versiculo": 23,
+   "texto": "Ahora, cuando se leyó ante Rehum, el escriba Shimshai y sus compañeros, una copia de la carta del rey Artajerjes,.... Dirigido a él o a ellos, a quienes iba especialmente destinado:\n\nSe dirigieron rápidamente a Jerusalén, hacia los judíos; no solo por obedecer la orden del rey, sino también por un fuerte deseo de detener las acciones de los judíos, a quienes sentían aversión, instigados por los samaritanos.\n\nLos obligaron a cesar, por la fuerza y el poder, en la continuación de la construcción del templo, que consideraban parte de la ciudad y que estaba dentro de su jurisdicción. Para lograrlo, demostraron la autoridad y el poder que tenían por orden del rey, y utilizaron las fuerzas que habían traído consigo para obligarlos a obedecer; de lo contrario, los amenazaron severamente con las consecuencias que enfrentarían si no desistían."
+  },
+  {
+   "capitulo": 4,
+   "versiculo": 24,
+   "ate_capitulo": 4,
+   "ate_versiculo": 24,
+   "texto": "Entonces, cesaron los trabajos de la casa de Dios, que se encuentra en Jerusalén,.... No se menciona hasta qué punto habían avanzado, ni siquiera si habían ido más allá de la simple colocación de los cimientos; aunque es probable que, para entonces, la construcción hubiera alcanzado cierta altura. Sin embargo, en este punto, los trabajos fueron suspendidos.\n\nAsí, la construcción cesó al comienzo del segundo año del reinado de Darío, rey de Persia; no de Darío Nothun, como algunos creen, porque desde el primer año de Ciro hasta el sexto de su reinado, cuando el templo fue terminado, transcurrieron más de cien años; de hecho, según algunos, alrededor de ciento cuarenta años; esto llevaría la edad de Zerubabel, quien tanto puso la primera piedra del templo como lo terminó, y la edad de aquellos que vieron el primer templo, a una cifra que no es probable. Sin embargo, este fue Darío Hystaspis, quien sucedió a Cambises, hijo de Ciro, y entre ambos solo hubo la breve usurpación de Smerdis, que duró siete meses."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 1,
+   "ate_capitulo": 5,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 5\n\nEste capítulo relata cómo el pueblo judío, impulsado por las profecías de Jojás y Zacarías, se dedicó nuevamente a la construcción del templo, a pesar de las órdenes contrarias emitidas por los gobernadores adjuntos del rey de Persia; y cómo los gobernadores actuales no pudieron detenerlos, aunque es de reconocer que trataron a los judíos de una manera más favorable que sus predecesores, según se indica en Ezra 5:1. Además, quienes recibieron las respuestas de los judíos, escribieron una carta a Darío para conocer la verdad de los hechos, y en la cual parecen exponer de manera justa la situación de los judíos, tal como la entendieron a partir de lo que les comunicaron, según se describe en Ezra 5:6.\n\nLuego, los profetas, como Hagai, el profeta, y Zacarías, hijo de Iddo,.... El nieto de Iddo; pues era hijo de Berequías, Zacarías 1:1.\n\nprofetizó a los judíos que estaban en Judá y Jerusalén, en nombre del Dios de Israel; ambos lo hicieron en el segundo año de Darío; uno comenzó en el sexto mes, y el otro en el octavo mes del año, según Hagai 1:1, dirigiéndose \"a ellos\" o \"contra ellos\", como señala De Dieu; repreciéndoles por su pereza y por descuidar la construcción del templo, cuando se habían preocupado lo suficiente en construir buenas casas para vivir; y por dejarse intimidar por la orden del rey de Persia, que solo prohibía la construcción de la ciudad, es decir, de sus murallas, pero no del templo, al igual que no prohibía la construcción de sus propias casas; además, ahora había un nuevo rey, de quien no tenían tanto que temer."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 2,
+   "ate_capitulo": 5,
+   "ate_versiculo": 2,
+   "texto": "Luego se levantó Zorobabel, hijo de Salatiel, y Jeshua, hijo de Jozadak,.... Los corazones de aquellos que fueron conmovidos y animados por el ministerio de los profetas, con la presencia del Señor que los acompañaba por su Espíritu, como se menciona en Hagai 1:12.\n\ny comenzó la construcción de la casa de Dios, que está en Jerusalén; para continuar con la edificación; pues habían puesto los cimientos antes, y quizás la habían elevado hasta cierta altura, al menos, antes de que dejaran de trabajar en ella (Esdras 3:10).\n\nY con ellos estaban los profetas de Dios, quienes los ayudaban; con palabras de consejo, consuelo y exhortación, guiándolos y animándolos, y prometiéndoles protección y éxito: estos son los profetas mencionados anteriormente."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 3,
+   "ate_capitulo": 5,
+   "ate_versiculo": 3,
+   "texto": "Al mismo tiempo, llegaron hasta ellos Tatnai, el gobernador de la región al otro lado del río, y Setarboznai, junto con sus compañeros,.... Estos eran los nuevos gobernadores y funcionarios bajo el rey de Persia en esas regiones; los antiguos, como Rehum y Shimshai, habían fallecido o habían sido removidos tras la llegada al trono de este nuevo rey. Estos funcionarios se acercaron a los judíos.\n\nY les dijo: \"¿Quién os ha ordenado construir esta casa y levantar esta muralla?\" Porque, al parecer, para ese momento ya habían elevado los muros del templo desde sus cimientos hasta cierta altura. Es importante entender esto, como se menciona en Ezra 4:8, ya que es poco probable que ya estuvieran rodeando el templo con una muralla. Entonces, le preguntaron por qué autoridad estaban realizando esta obra, quién los había encargado y cuáles eran sus nombres. Aunque esta pregunta no se expresa aquí, es evidente a partir de Ezra 4:10, y la respuesta se da en el versículo siguiente."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 4,
+   "ate_capitulo": 5,
+   "ate_versiculo": 4,
+   "texto": "Luego, les dijimos lo siguiente,.... En respuesta a sus preguntas, Esdras y otros judíos respondieron: aunque se dice que Esdras vino de Babilonia en el séptimo año de Artajerjes, es posible que haya ido allí por algún asunto y luego haya regresado en ese momento. Algunos creen que estas son las palabras de Tatnai y de quienes lo acompañaban, como sugiere Ben Melech, lo cual parece estar respaldado por Esdras 4:10, y al leer las palabras como una pregunta, como nosotros hacemos. Aben Ezra afirma que estas son o las palabras de los constructores, o de los escribas, los secretarios que fueron a interrogarlos; pero son las palabras de los primeros, como lo exige el orden, o de lo contrario no se daría ninguna respuesta, al menos según lo expresado. La siguiente frase puede leerse sin una interrogación, y el sentido sería que les dijeron no solo que estaban actuando de acuerdo con un edicto del rey Ciro de Persia, lo cual se menciona, como se ve en Esdras 5:13, sino que también declararon...\n\n¿Cuáles fueron los nombres de los hombres que construyeron este edificio, o que los emplearon en él? Se trataba de Zorobabel, Jeshua y los principales líderes de los judíos. No dudaron en decirles quiénes eran, ni sintieron vergüenza de sus amos, ni de su trabajo, ni temieron a ninguna consecuencia negativa que pudiera surgir en el futuro."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 5,
+   "ate_capitulo": 5,
+   "ate_versiculo": 5,
+   "texto": "Pero la mirada de su Dios estaba puesta sobre los ancianos de los judíos,.... En su sabiduría, los favoreció, les mostró su benevolencia, los animó en su labor a través de su Espíritu y por medio de los profetas, les concedió el éxito, los protegió y los defendió, como se puede ver en 2 Crónicas 16:9.\n\nque no pudieron hacer que cesaran sus actividades, hasta que el asunto llegó a Darío; no se dejaron intimidar por lo que el gobernador y sus acompañantes les dijeron, sino que continuaron con su trabajo; ni siquiera el gobernador intentó interrumpirlos, ya que ellos habían remitido el asunto y su causa a Darío para que él determinara la veracidad de lo que habían dicho y para obtener más información de él:\n\ny luego, respondieron a este asunto por medio de una carta; es decir, Tatnai y sus acompañantes enviaron una carta a Darío sobre este asunto, a la cual recibieron una respuesta, y ambos aspectos se relatan en este y el siguiente capítulo."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 6,
+   "ate_capitulo": 5,
+   "ate_versiculo": 6,
+   "texto": "La copia de la carta que Tatnai, gobernador al otro lado del río, y Shetarboznai, junto con sus compañeros, los afarsacitas, que estaban al otro lado del río,.... Algunos creen que este nombre podría corresponder a una de las naciones mencionadas en Ezra 4:9, ya que es bastante similar a los nombres de dos de ellas; sin embargo, quizás se trate de una colonia distinta en esa región, y Tatnai era el gobernador de esa área.\n\nEstos mensajes fueron enviados a Darío, el rey, y su contenido es el siguiente:"
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 7,
+   "ate_capitulo": 5,
+   "ate_versiculo": 7,
+   "texto": "Le enviaron una carta en la que estaba escrito lo siguiente,.... O esta era la inscripción que contenía:\n\nAl rey Darío, que la paz lo acompañe; deseándole toda clase de felicidad y prosperidad."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 8,
+   "ate_capitulo": 5,
+   "ate_versiculo": 8,
+   "texto": "Sea sabido por el rey,.... Parece que esta era la forma habitual de comenzar una carta a un rey en aquella época, como se indica en Ezra 4:12, donde se menciona que viajamos a la provincia de Judea, que había sido reducida de un reino a una provincia y que se había convertido en parte de la monarquía babilónica, ahora persa. Ver Ezra 2:1. Nos dirigimos a la casa del gran Dios, como los judíos llamaban al Señor, su Dios. Incluso los gentiles tenían la idea de que existía un Dios supremo, aunque adoraban a dioses inferiores, y algunos creían que Jehová, el Dios de los judíos, era ese mismo.\n\nque está construido con grandes piedras; piedras de mármol; como indica Jarchi (q), piedras que se podían rodar, tal como podría interpretarse; que, según Aben Ezra, eran tan grandes y pesadas que no podían ser transportadas, sino que debían ser rodadas:\n\ny se colocan vigas de madera en las paredes, madera de cedro, como interpreta Aben Ezra, para vigas, para el suelo y para las vigas del techo; o más bien, se colocan sobre las paredes para el revestimiento interior, que se realizó con madera de cedro:\n\ny esta obra avanza rápidamente y prospera en manos de quienes la llevan a cabo; y, a menos que se evite a tiempo, pronto estará terminada.\n\n(q) So David de Pomis, Tzemach David, fol. 15. 3."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 9,
+   "ate_capitulo": 5,
+   "ate_versiculo": 9,
+   "texto": "Luego, le preguntamos a esos ancianos,.... Los ancianos de la provincia de Judea; los principales líderes de ella:\n\n¿Quién les ordenó construir esta casa y levantar estas murallas? Consultar Ezequiel 5:3."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 10,
+   "ate_capitulo": 5,
+   "ate_versiculo": 10,
+   "texto": "También les preguntamos sus nombres,.... Los nombres de los ancianos, aquellos que organizaron a las personas para llevar a cabo este trabajo:\n\nPara certificar que pudiéramos escribir los nombres de los hombres que eran los líderes de ese grupo; tomamos sus nombres por escrito, para que pudieran informar al rey con certeza quiénes eran, y para que, de ser necesario, pudieran ser llamados a responder por sus acciones."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 11,
+   "ate_capitulo": 5,
+   "ate_versiculo": 11,
+   "texto": "Y así, nos dieron su respuesta,.... Con el fin y de la siguiente manera:\n\n\"Somos los siervos del Dios del cielo y de la tierra\", afirmaban; lo que significaba que estaban cumpliendo su obra, obedeciendo a su voluntad, y a Él debían rendir cuentas:\n\ny construyeron la casa que se había construido hace muchos años; incluso, hace unos quinientos años, aproximadamente; de modo que no estaban levantando una edificación donde antes no había nada, sino que estaban reconstruyendo lo que estaba en ruinas:\n\nuna edificación que un gran rey de Israel construyó y estableció; el rey Salomón, quien fue un gran rey por su sabiduría, honor, riqueza, paz, prosperidad y la extensión de su reino."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 12,
+   "ate_capitulo": 5,
+   "ate_versiculo": 12,
+   "texto": "Pero después de eso, nuestros antepasados provocaron la ira del Dios del cielo,.... Por sus idolatrías; lo que explica cómo fue que aquellos que eran siervos del gran Dios del cielo y de la tierra, y este templo construido para honrar su nombre, no fueron preservados por él; sino que fueron llevados cautivos, y esta casa quedó abandonada: fue por sus pecados por los cuales...\n\nÉl (Dios) los entregó en manos de Nabucodonosor, rey de Babilonia, el caldeo, quien destruyó esta ciudad y llevó al pueblo a Babilonia; véase 2 Crónicas 36:19."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 13,
+   "ate_capitulo": 5,
+   "ate_versiculo": 13,
+   "texto": "Pero en el primer año del reinado de Ciro, rey de Babilonia,.... Es decir, fue en el primer año de su reinado en Babilonia, después de haberla conquistado, mientras que antes de eso, fue rey de Persia durante muchos años.\n\nEl mismo rey Ciro emitió un decreto para construir esta casa de Dios; véase Ezra 1:1."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 14,
+   "ate_capitulo": 5,
+   "ate_versiculo": 14,
+   "texto": "De lo cual, y de lo que se dice con respecto a ellos, y en particular, de su entrega a Sesbasar, a quien Ciro designó gobernador de Judá, y le ordenó que los transportara a Jerusalén, que construyera el templo allí y los colocara en él, véase Ezra 1:7."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 16,
+   "ate_capitulo": 5,
+   "ate_versiculo": 16,
+   "texto": "Luego, fue el mismo Sesbazar quien puso los cimientos de la casa de Dios, que se encuentra en Jerusalén,.... Esto deja claro que, cuando se menciona a \"Sesbasar\", se está refiriendo a \"Zorobabel\"; fue él quien sentó las bases del templo, o al menos, fue por su orden que se colocaron, como se puede ver en Zacarías 4:9.\n\ny desde entonces, hasta el día de hoy; desde el primer año de Ciro hasta el segundo de Darío, transcurrieron aproximadamente dieciocho años, y setenta años desde la destrucción del templo:\n\nha estado en construcción, y aún no está terminada; el trabajo avanza lentamente, con interrupciones y pausas, debido a la hostilidad de los samaritanos hacia ellos, quienes habían difundido falsas acusaciones; pero estos hombres, Tatnai y sus compañeros, recibieron de los judíos un relato muy detallado de los hechos, como se mencionó anteriormente, y lo expusieron de manera clara y completa en esta carta al rey."
+  },
+  {
+   "capitulo": 5,
+   "versiculo": 17,
+   "ate_capitulo": 5,
+   "ate_versiculo": 17,
+   "texto": "Ahora, por lo tanto, si al rey le parece bien, que se realice una búsqueda en el tesoro real, que se encuentra allí en Babilonia,.... ¿Dónde se encontraban los archivos del reino, donde se guardaban las leyes, los decretos, los edictos, los comunicados y otros documentos relacionados con el estado, para que se pudieran consultar cuando fuera necesario?\n\nSi es cierto que el rey Ciro emitió un decreto para construir esta casa de Dios en Jerusalén, lo cual los judíos afirmaron que fue así, y sobre el cual procedieron:\n\nQue el rey nos comunique su decisión con respecto a este asunto: si se permitirá a los judíos continuar con la construcción de su templo y completarla, o si se les impedirá hacerlo; indicando que están dispuestos a cumplir su voluntad y decisión, de la manera que él considere oportuna."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 1,
+   "ate_capitulo": 6,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 6\n\nDarío, al recibir la carta de sus oficiales en Samaria, buscó el decreto de Ciro, lo encontró y lo confirmó (Ezra 6:1), y emitió un nuevo decreto, ordenando que se asignaran fondos de sus impuestos para la construcción del templo y para los sacrificios que allí se ofrecían. Además, estableció que quien modificara este decreto sería ahorcado en la viga de su propia casa, e invocó una maldición sobre aquellos que destruyeran la casa de Dios (Ezra 6:8). Gracias a esto, la construcción continuó y se completó (Ezra 6:13), y el templo fue dedicado a Dios con gran solemnidad (Ezra 6:16), y toda la gente celebró la Pascua (Ezra 6:19).\n\nEntonces, el rey Darío emitió un decreto,.... Para investigar sobre el edicto de Ciro y buscarlo en los archivos públicos:\n\ny se realizó una búsqueda en el archivo, o \"biblioteca\" (r), de una biblioteca pública o museo:\n\ndonde se guardaban los tesoros en Babilonia; donde se depositaban objetos de valor; no solo oro, plata, joyas, piedras preciosas y objetos raros y curiosos, sino también todo tipo de documentos relacionados con la monarquía y los territorios que le pertenecían; pero parece que no se pudo encontrar allí, y por lo tanto, el rey ordenó que se realizara una búsqueda en otro lugar.\n\n(r) , , Sept. \"in bibliotheca\", V. L. \"in bibliotheca librorum\", Tigurine version; \"in domo librorum\", Pagninus, Montanus."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 2,
+   "ate_capitulo": 6,
+   "ate_versiculo": 2,
+   "texto": "Y fue encontrado en Acmeta,.... Según Jarchi y Aben Ezra, este término se refiere al nombre de una embarcación en la que se guardaban cartas y documentos para su seguridad; sin embargo, es muy probable que se tratara del nombre de un lugar. La versión latina de la Vulgata lo traduce como \"Ecbatana\", al igual que lo hace Joséfo (s). Este último era el nombre de una ciudad en Media, donde los reyes de esa región residían durante el verano (t), ya que su nombre proviene de la palabra que significa \"calor\" (u). Los reyes persas residían en Susa durante el invierno y en Ecbatana durante el verano (w). Por esta razón, Aelian (x) los compara con las grullas, aves migratorias, debido a sus traslados entre estos lugares.\n\nEn el palacio que se encuentra en la provincia de los medos, se encontró un rollo, que era el decreto de Ciro, el cual quizás llevó consigo cuando se dirigió allí.\n\nEn dicho rollo, se encontró una inscripción con el siguiente texto:\n\n[Aquí seguiría el texto del decreto].\n\n(s) Antiqu. l. 11. c. 4. sect. 6.\n(t) Curtius, l. 5. c. 8. Vid. Alex. ab Alex. Genial. Dier. l. 3. c. 6.\n(u) Hiller. Onomastic. Sacr. p. 618.\n(w) Athen. Deipnosophist, l. 12. c. 1.\n(x) De Animal. l. 3. c. 13."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 3,
+   "ate_capitulo": 6,
+   "ate_versiculo": 3,
+   "texto": "En el primer año del reinado de Ciro, el rey, este mismo Ciro, el rey, emitió un decreto con respecto a la casa de Dios en Jerusalén, ordenando que se reconstruyera,.... Consulte Ezequiel 1:1.\n\nel lugar donde se ofrecían sacrificios; a Dios en tiempos pasados, desde que fue construido por Salomón:\n\ny que sus cimientos estén firmemente establecidos; de modo que puedan soportar y sostener la estructura construida sobre ellos, como indica la palabra:\n\nsu altura es de sesenta codos; lo cual era treinta codos más que la altura del templo de Salomón, 1 Reyes 6:2, aunque sesenta codos menos que la altura del pórtico, que era de ciento veinte, 2 Crónicas 3:4, y que algunos interpretan como la altura de toda la edificación; por lo tanto, se puede observar lo que Herodes dijo (y), que el templo de su época necesitaba sesenta codos de altura para igualarse al templo de Salomón:\n\ny su anchura es de sesenta codos; mientras que la anchura del templo de Salomón era de solo veinte, 1 Reyes 6:2; sin embargo, no es razonable pensar que la anchura sea igual a la altura, y que esto sea tan desproporcionado con respecto al templo de Salomón; muchos estudiosos interpretan esto como la extensión de la edificación en términos de longitud, lo cual coincide exactamente con la longitud del templo anterior, 1 Reyes 6:2.\n\n(y) Apud Joseph. Antiqu. l. 15. c. 11. sect. 1."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 4,
+   "ate_capitulo": 6,
+   "ate_versiculo": 4,
+   "texto": "Con tres filas de grandes piedras,.... Jarchi interpreta que esto se refiere a los muros de la ciudad, y que estas piedras son de mármol; y Ben Melech está de acuerdo con esta interpretación.\n\ny una hilera de madera nueva; de cedro, colocada sobre las hileras de piedra, véase 1 Reyes 6:36, o para el revestimiento y los paneles de las paredes:\n\ny que los gastos sean cubiertos por los fondos de la casa del rey; el tesoro real; pero no parece que esta parte de la ordenanza se haya cumplido, al menos hasta ahora; pero los judíos construyeron a su propio costo, y quizás no siguieron exactamente las indicaciones dadas con respecto a las dimensiones del edificio."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 5,
+   "ate_capitulo": 6,
+   "ate_versiculo": 5,
+   "texto": "Y también, que se coloquen los recipientes de oro y plata,.... Consulte Ezra 1:7, que confirma lo que los judíos le dijeron a Tatnai, según se menciona en Ezra 5:14."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 6,
+   "ate_capitulo": 6,
+   "ate_versiculo": 6,
+   "texto": "Ahora, por lo tanto, Tatnai, gobernador de la región más allá del río,.... El río Éufrates, la parte que da hacia la tierra de Israel; Josefo (z) llama a este hombre \"maestro de la caballería\":\n\nShetharboznai, y sus compañeros, los Afarsacitas, que están al otro lado del río, manténganse alejados de allí; guarden distancia de los judíos y no los molesten, ni interrumpan su trabajo de construcción del templo, sino que atiendan sus propios asuntos y gobierno.\n\n(z) Ibid. (Antiqu.) l. 11. c. 4. sect. 7."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 7,
+   "ate_capitulo": 6,
+   "ate_versiculo": 7,
+   "texto": "Dejen que el trabajo de esta casa de Dios se realice solo,.... Permítanles continuar con lo suyo y no los obstaculicen; por estas expresiones, parece que él tenía alguna sospecha o le habían dado alguna pista de que ellos estaban inclinados a molestarlos, o que había personas que los incitaban a hacerlo y que deseaban que ocurriera.\n\nPermitan que el gobernador de los judíos y los ancianos de los judíos construyan esta casa de Dios en su lugar, donde estaba antes; es decir, que continúen con la construcción."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 8,
+   "ate_capitulo": 6,
+   "ate_versiculo": 8,
+   "texto": "Además, decreto lo siguiente: ¿qué deben hacer los ancianos de esta comunidad judía con respecto a la construcción de esta casa de Dios?.... Esto debe considerarse como un decreto adicional de Darío, que él mismo promulgó de manera particular, en el cual se concedieron más beneficios a los judíos, y como un estímulo para que continuaran con la construcción del templo; sin embargo, Josefo (a) afirma que esto no es más que una confirmación del decreto de Ciro; según él, todo lo que se concede aquí a los judíos, o se amenaza a otros, desde este punto hasta el final de Ezra 6:10, estaba contenido en ese decreto.\n\nla de los bienes del rey, incluso del tributo más allá del río; lo que se recaudaba de sus dominios en esa parte del río Éufrates, hacia la tierra de Israel: según Heródoto (b), este Darío fue el primer rey de Persia en exigir un tributo; bajo Ciro y Cambises, solo se ofrecían regalos; pero él impuso un tributo, y por eso fue llamado un mercader, mientras que Cambises tenía el título de señor, y Ciro el de padre: el mismo autor relata de qué naciones recibió este tributo, y las cantidades específicas, que en total sumaron 14.560 talentos eubóicos de oro; entre ellas se mencionan toda Fenicia y Siria, llamada Palestina, cuyo tributo es el que se refiere con el término \"tributo más allá del río\": y este rey mostró buena disposición hacia la nación judía, el templo y el culto, incluso antes de ser rey, si lo que dice Josefo (c) es cierto, a saber, que, mientras era un particular, hizo un voto a Dios de que, si llegaba a ser rey, enviaría todos los objetos sagrados que había en Babilonia al templo de Jerusalén: y de este tributo se dispuso lo siguiente:\n\nque se proporcionen inmediatamente los fondos necesarios a estas personas, para que no se vean impedidos de continuar con la construcción, debido a la falta de dinero para comprar materiales y pagar a los trabajadores.\n\n(a) Antiqu. l. 11. c. 4. sect. 6.\n(b) Thalia, sive, l. 3. c. 89-95.\n(c) Antiqu. l. 11. c. 3. sect. 1."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 9,
+   "ate_capitulo": 6,
+   "ate_versiculo": 9,
+   "texto": "Y todo lo que necesitan, tanto los toros jóvenes como los carneros y los corderos, para los sacrificios de fuego al Dios del cielo,.... Todo esto se utilizaba para los sacrificios de fuego, véase Levítico 1:2.\n\ntrigo, sal, vino y aceite; \"trigo\", o \"harina fina\", para la ofrenda de \"minjá\" o de carne; \"sal\", para cada ofrenda; \"vino\", para las libaciones; y \"aceite\", que se debía poner sobre las ofrendas de carne, véase Levítico 2:1.\n\nDe acuerdo con las indicaciones de los sacerdotes que están en Jerusalén, se les debe proporcionar diariamente, sin falta; para el sacrificio diario, y las ofrendas de carne y bebida que lo acompañaban, Éxodo 29:38."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 10,
+   "ate_capitulo": 6,
+   "ate_versiculo": 10,
+   "texto": "Para que puedan ofrecer sacrificios de aromas agradables al Dios del cielo,.... Como le sea agradable, Génesis 8:21.\n\nY se rezaba por la vida del rey y de sus hijos; las oraciones se ofrecían durante el momento del incienso de la mañana y de la tarde; y los judíos solían orar por otras personas además de ellos mismos, especialmente cuando se les pedía, y en particular por los reyes y los magistrados civiles, a quienes estaban sujetos, como se puede ver en Jeremías 29:7. Los hijos de Darío Histaspo, por cuya vida, así como por la suya propia, se ofrecían oraciones, eran, según Heródoto (d), tres nacidos de su primera esposa, la hija de Gobrias, antes de que comenzara a reinar, siendo el mayor de ellos Artobazanes. Es probable que estos sean los hijos a los que se refiere el texto, dado que esto ocurrió al principio de su reinado. Posteriormente, tuvo otros cuatro hijos con Atosa, la hija de Ciro, siendo el mayor de ellos Jerjes, quien le sucedió. Muchos de los paganos tenían una alta opinión del Dios de los judíos y de sus oraciones por ellos. Incluso el emperador Juliano (e) lo consideraba el mejor de todos los dioses, y pidió a los judíos que oraran por él para el bienestar de su reino. No debería sorprender que Darío también deseara lo mismo, ya que era un príncipe devoto. Algunos creen que su padre, Histaspes, era el mismo que fue uno de los más famosos entre los magos persas, o ministros de cosas sagradas. Darío mismo tenía una gran veneración por los hombres de ese orden sagrado, tanto que ordenó que se inscribiera en su monumento funerario que él era el maestro de los magos (f). Además, gracias a su cercanía con los sacerdotes de Egipto y a su conocimiento de su religión, tuvo el honor, mientras vivió, de que se le atribuyera divinidad (g).\n\n(d) Polymnia, sive, l. 7. c. 2.\n(e) Opera, par. 2. ep. 25. p. 153.\n(f) Porphyr. de abstinentia, l. 4, c. 16.\n(g) Diodor. Sic. l. 1. p. 85."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 11,
+   "ate_capitulo": 6,
+   "ate_versiculo": 11,
+   "texto": "También he emitido un decreto, según el cual, quienquiera que altere estas palabras,.... Actuar en contra de esta orden, no obedecerla, pero, en la medida de lo posible, intentar modificarla y revocarla:\n\nQue se derriben los árboles de su casa, y una vez derribados, que se construya un patíbulo con ellos, y que allí se le cuelgue; es decir, que se tome una viga de su casa y se construya un patíbulo con ella, y que se le cuelgue en ese patíbulo.\n\nY que su casa se convierta en un montón de estiércol por esta causa; que se derrumbe y nunca más se reconstruya; véase la interpretación de Gill sobre Daniel 2:2; véase la interpretación de Gill sobre Daniel 2:9."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 12,
+   "ate_capitulo": 6,
+   "ate_versiculo": 12,
+   "texto": "Y el Dios que ha hecho que su nombre resida allí,.... Cuyo nombre no solo se invoca allí, y se le llama por su nombre; sino que quien concede su presencia, y hace que su Shekiná, o divina Majestad, habite allí, como en el templo de Salomón, del cual Darío tenía cierto conocimiento:\n\nDestruyan a todos los reyes y a todas las personas; sean quienes sean, altos o bajos:\n\nQuienquiera que intente alterar o destruir esta casa de Dios, que está en Jerusalén, será castigado. Dijo esto para disuadir a alguien de impedir la construcción de ella en ese momento, y de intentar destruirla en el futuro.\n\nYo, Darío, he emitido un decreto: que se ejecute con rapidez; que se lleve a cabo de inmediato, especialmente en lo que respecta al financiamiento para la construcción del templo y para los sacrificios que allí se ofrezcan."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 13,
+   "ate_capitulo": 6,
+   "ate_versiculo": 13,
+   "texto": "Luego, Tatnai, el gobernador de la región al otro lado del río, Setarboznai y sus compañeros,.... Habiendo recibido y leído la carta anterior:\n\nDe acuerdo con lo que el rey Darío había enviado, ellos actuaron rápidamente; informaron a los judíos sobre lo que el rey había escrito; en lugar de obstaculizar el avance de la obra, la fomentaron; y realizaron pagos a su cargo a partir de los impuestos del rey, además de proporcionarles todo lo necesario para los sacrificios. Hicieron todo esto de inmediato, sin demora."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 14,
+   "ate_capitulo": 6,
+   "ate_versiculo": 14,
+   "texto": "Y los ancianos de los judíos construyeron,.... Continuaron con la construcción del templo:\n\ny prosperaron gracias a las profecías de Hagai el profeta y Zacarías, hijo de Iddo; o nieto, como se mencionó anteriormente; quienes los animaron y los alentaron; y como predijeron y prometieron, así fue; tuvieron éxito en su trabajo, y el Señor influyó en el corazón del rey Darío y de su consejo, favoreciéndolos:\n\ny construyeron y terminaron el templo:\n\nde acuerdo con el mandato del Dios de Israel; por medio de los profetas mencionados, quienes les hablaron y profetizaron en su nombre:\n\ny de acuerdo con el mandato de Ciro, Darío y Artajerjes, rey de Persia; el mandato de Ciro se encuentra en Esdras 1:1, el de Darío en Esdras 6:8, pero quién es Artajerjes y cuál es su mandato, no es fácil de determinar; no puede ser el Artajerjes que reinó entre Ciro y Darío, sino uno que le sucedió; además, fue un obstáculo para la construcción, como se menciona en Esdras 4:21. Algunos creen que este fue Jerjes, hijo y sucesor de Darío, y que pudo haber sido un colaborador de su padre en el imperio en ese momento, y por lo tanto, se le incluye en este mandato; esto es más probable que sea su nieto, Artajerjes Longimanus, durante cuyo reinado, se supone, el templo fue embellecido y adornado, aunque su construcción exterior ya había terminado; y por lo tanto, se le menciona de manera anticipada. Sin embargo, es aún más plausible que se refiera a Artajerjes Mnemon, hijo de Darío Nothus. Pero, en última instancia, me inclino a pensar, como Aben Ezra, que se trata de Darío mismo; y las palabras que se deben leer son \"Darío, es decir, Artajerjes, rey de Persia\"; Artajerjes, como él observa, era un nombre común entre los reyes de Persia, al igual que \"Faraón\" era un nombre común entre los reyes de Egipto; aunque algunos rechazan esta interpretación (h). Quienquiera que sea, este nombre aparece en la continuación de esta historia, y en el séptimo año de su reinado, el año siguiente a este, Esdras fue a Jerusalén, y en el vigésimo año de su reinado, Nehemías, como se menciona en Esdras 7:1. He encontrado que el Dr. Lightfoot (i) compartía esta misma opinión. Según Diodorus Siculus (k), los reyes de Persia fueron llamados Artajerjes después de Mnemon; y es posible que fuera así antes también. Cambises es llamado así en Esdras 4:7. Heródoto (l) dice que el nombre significa \"un guerrero poderoso\".\n\n(h) Vid. Rainold de Lib. Apocryph. praelect. 31. p. 271.\n(i) Works, vol. 1. p. 139.\n(k) Bibliothec. l. 15. p. 400.\n(l) Erato, sive, l. 6. c. 98."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 15,
+   "ate_capitulo": 6,
+   "ate_versiculo": 15,
+   "texto": "Y esta casa fue terminada el tercer día del mes de Adar,.... El duodécimo mes del año, según el calendario judío, que corresponde a parte de nuestro mes de febrero y parte de marzo.\n\nque ocurrió en el sexto año del reinado del rey Darío; cuatro años después de que se promulgó el decreto."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 16,
+   "ate_capitulo": 6,
+   "ate_versiculo": 16,
+   "texto": "Y los hijos de Israel,.... De las diez tribus que quedaron después de que el resto de la población fuera llevada al cautiverio, o que regresaron con los judíos:\n\nLos sacerdotes y los levitas, y el resto de los hijos del cautiverio; los de las tribus de Judá y Benjamín:\n\ncelebraron con alegría la dedicación de esta casa de Dios; la consagraron para uso y servicio sagrados, con banquetes y otras manifestaciones de alegría y júbilo, como se describe a continuación."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 17,
+   "ate_capitulo": 6,
+   "ate_versiculo": 17,
+   "texto": "Y ofreció, durante la inauguración de esta casa de Dios, cien toros, doscientos carneros y cuatrocientos corderos,.... Sacrificios de diversas clases, considerados siempre como ofrendas grandiosas, incluso entre los paganos, de los cuales Homero a veces habla; algunos de estos eran para sacrificios de fuego, y otros eran ofrendas de paz, como muestra de agradecimiento a Dios por la finalización del templo; una parte de estos sacrificios pertenecía a quienes los ofrecían, y ellos se los comían con gran alegría de corazón.\n\ny para el sacrificio de expiación por toda la nación de Israel, se eligieron doce cabras, según el número de las tribus de Israel; aunque las diez tribus fueron llevadas al cautiverio por Salmanasar, como se ha mencionado anteriormente, algunos de ellos permanecieron en la tierra, y otros se fueron y regresaron con las dos tribus; por lo tanto, se ofreció un sacrificio de expiación por todos ellos, como una representación de la expiación de la culpa contraída desde que estuvieron en una tierra pagana, y debido a que el servicio en el templo había cesado."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 18,
+   "ate_capitulo": 6,
+   "ate_versiculo": 18,
+   "texto": "Y establecieron a los sacerdotes en sus divisiones y a los levitas en sus turnos, para el servicio de Dios que se realizaba en Jerusalén,.... Todos, en sus respectivas categorías y cursos, para realizar las tareas del templo de Jerusalén por turnos.\n\ncomo está escrito en el libro de Moisés; véase Números 3:6. A partir de esto, queda claro que el Pentateuco no fue escrito por Ezra, como sospechaba Spinosa (m), sino por Moisés; véase el argumento del libro de Génesis. Consulte la obra de Gill sobre Génesis 1:1.\n\n(m) Tract. Theolog. Polit. c. 8. p. 163."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 19,
+   "ate_capitulo": 6,
+   "ate_versiculo": 19,
+   "texto": "Y los hijos del cautiverio celebraron la Pascua el día catorce del primer mes. El mes de Nisan o Abib, que era el mes siguiente a aquel en el que se terminó el templo, según Ezras 6:15, esta Pascua se celebró exactamente en el momento que la ley mandaba, según Éxodo 12:2."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 20,
+   "ate_capitulo": 6,
+   "ate_versiculo": 20,
+   "texto": "Los sacerdotes y los levitas se purificaron juntos, y todos ellos estaban limpios,.... Todos ellos, sin excepción, eran puros, y todos fueron purificados como un solo hombre; todos estaban de acuerdo en purificarse, y se esforzaron por hacerlo, y lo hicieron con la misma rapidez con la que se habría purificado una sola persona; de modo que estaban más preparados para el servicio en ese momento que en los tiempos de Ezequías. (2 Crónicas 29:34)\n\ny sacrificaron el cordero de la Pascua por todos los hijos del cautiverio, por sus hermanos los sacerdotes y por sí mismos; lo cual, al parecer, fue realizado por los levitas, tanto por ellos mismos como por los sacerdotes, y por todo el pueblo, que no era tan puro como los sacerdotes y los levitas; o, alternativamente, podrían haberlo sacrificado ellos mismos, según lo cree Bochart (n).\n\n(n) Hierozoic. par. 1. l. 2. c. 50. col. 576."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 21,
+   "ate_capitulo": 6,
+   "ate_versiculo": 21,
+   "texto": "Y los hijos de Israel, que habían regresado de la cautividad,.... Las tribus de Judá y Benjamín, junto con algunas de las diez tribus que se habían mezclado con ellas:\n\nY todos aquellos que se habían separado de ellos, alejándose de la impureza de los gentiles de la tierra, para buscar al Señor Dios de Israel, comieron. También comieron los gentiles que vivían en los dominios de Babilonia y que vinieron con los judíos desde allí, quienes habían sido iluminados con el conocimiento y la adoración del verdadero Dios, y no solo renunciaron a su idolatría, aquí llamada impureza, sino que también fueron circuncidados, adoptaron la religión de los judíos, y por lo tanto, fueron considerados prosélitos justos, como ellos los llaman. De lo contrario, no se les habría permitido participar en la Pascua, como sí lo hicieron, según se describe en Éxodo 12:48."
+  },
+  {
+   "capitulo": 6,
+   "versiculo": 22,
+   "ate_capitulo": 6,
+   "ate_versiculo": 22,
+   "texto": "Y celebraron la fiesta de los panes sin levadura durante siete días con alegría,.... Que inmediatamente seguía a la Pascua, Éxodo 12:18.\n\nporque el Señor los había llenado de alegría; la construcción del templo había terminado, y el culto se había restablecido a su pureza original:\n\ny el corazón del rey de Asiria se volvió hacia ellos, para fortalecer sus manos en la obra de la casa de Dios, el Dios de Israel; permitiéndoles continuar con la construcción del templo, y animándolos y ayudándolos en ella hasta que la terminaron. Este era Darío Artajerjes, quien, aunque llamado rey de Persia, también era rey de Asiria, poseyendo la monarquía asiria, como sus predecesores lo habían hecho al tomar Babilonia, y por lo tanto, también se le llama rey de Babilonia, Nehemías 13:6. Dios, el Dios de Israel, que tiene los corazones de todos los hombres en sus manos, y también los corazones de los reyes, y puede cambiarlos a su voluntad, inclinó su corazón para hacerles bien, lo cual fue motivo de alegría para ellos, véase Esdras 7:27."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 1,
+   "ate_capitulo": 7,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A EZRA 7\n\nEn este capítulo, se describe el linaje y el carácter de Ezra (Ezra 7:1), su expedición a Jerusalén, junto con muchos otros (Ezra 7:7), una copia de la comisión que el rey Artajerjes le otorgó para que la cumpliera (Ezra 7:11), y su gratitud (Ezra 7:27).\n\nDespués de esto,.... La finalización del templo, su dedicación y la celebración de la Pascua:\n\nDurante el reinado de Artajerjes, rey de Persia; en el séptimo año de su reinado, como se menciona en Ezra 7:7, que es el mismo Darío mencionado en el capítulo anterior; así lo afirman Jarchi y Aben Ezra. Consulte la obra de Gill sobre Ezra 6:14.\n\nEsdras, hijo de Seraías; el sumo sacerdote asesinado por Nabucodonosor, según Jeremías 52:24. Este Esdras era un hijo menor de Seraías, hermano de Josué y tío de Josías, quienes fueron sumos sacerdotes sucesivamente. Su genealogía se remonta a Aarón, como se indica en estos versículos y en los cuatro siguientes. Por brevedad, se omiten solo seis generaciones entre Azarías y Meraiot, las cuales pueden encontrarse en 1 Crónicas 6:7. Consulte la obra de Gill."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 6,
+   "ate_capitulo": 7,
+   "ate_versiculo": 6,
+   "texto": "Este Ezra ascendió desde Babilonia,.... Una segunda vez; es evidente que él ascendió con Zorobabel según Nehemías 12:1, y esto se indica claramente en Ezra 5:4.\n\ny él era un escriba experto en la ley de Moisés, que el Señor, Dios de Israel, había dado; lo que significa, no que tuviera una habilidad rápida para copiarla, sino que tenía un profundo conocimiento de ella; la había estudiado a fondo, estaba bien instruido en ella, y estaba ampliamente cualificado para enseñarla a otros; era un eminente experto en la ley; así, los escribas, en el Nuevo Testamento, que son lo mismo que los juristas, eran aquellos que enseñaban la ley; la palabra utilizada aquí en la lengua árabe significa ser experto, como Jarchi aprendió de uno de sus estudiosos (o):\n\ny el rey le concedió todo lo que le pidió, según la gracia del Señor, su Dios, que estaba con él; ya sea que esa gracia se manifestara en favor de Esdras ante el rey, lo que le trajo éxito y prosperidad; o bien, podría indicar la influencia divina del Dios de Esdras sobre el corazón del rey, impulsándolo a conceder lo que le pedía, incluso todo lo que deseaba. Parece que fue enviado como embajador al rey por los principales líderes de Jerusalén; quizás los gobernadores de Siria no habían cumplido completamente los pagos que el rey les había exigido en su decreto, ya que la siguiente comisión se centra principalmente en esas cuestiones; y fue enviado con esa misión para informar al rey al respecto, así como para persuadir a los que quedaban para que regresaran y para obtener permiso para ello.\n\n(o) Comment. in Psal. xlv. 1. \"acutus ingenio et solers fuit\", Golius, col. 2272. \"in re exercitatus fuit et excultus\", Castel. col. 2008. Ethiop. \"docuit, erudivit\", ib. col. 2007."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 7,
+   "ate_capitulo": 7,
+   "ate_versiculo": 7,
+   "texto": "Y algunos de los hijos de Israel subieron,.... Quizás algunas de las diez tribus, así como otras de las tribus de Judá y Benjamín, optaron por permanecer en Babilonia y en sus territorios, a pesar del edicto de Ciro, hasta que observaron cómo evolucionarían las cosas en Judea. Al enterarse de que el templo había sido construido y de que aquellos que habían regresado habían construido sus propias casas en sus respectivas ciudades y prosperaban, consideraron oportuno regresar también.\n\ny de los sacerdotes, y de los levitas, y de los cantores, y de los porteros, y de los netinims, a Jerusalén; para ocupar sus lugares y desempeñar sus funciones en el templo que se había construido; porque, de los levitas, algunos de los cuales eran cantores y otros porteros, y de los netinims, solo unos pocos subieron con Zorobabel. Ahora bien, este viaje que realizaron se llevó a cabo\n\nen el séptimo año del reinado de Artajerjes el rey; es decir, de Darío Artajerjes, y este fue el año siguiente a la finalización del templo. Sin embargo, muchos hombres estudiosos creen, y con cierta justificación, que se refiere a Artajerjes Longímano."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 8,
+   "ate_capitulo": 7,
+   "ate_versiculo": 8,
+   "texto": "Y él llegó a Jerusalén en el quinto mes,.... Con la empresa mencionada, este fue el mes de Abib, que comprende parte de julio y parte de agosto, y que correspondió al séptimo año del reinado, como se indica en el versículo anterior."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 9,
+   "ate_capitulo": 7,
+   "ate_versiculo": 9,
+   "texto": "En el primer día del primer mes, comenzó su ascenso desde Babilonia,.... El mes de Nisan, que corresponde a una parte de marzo y otra de abril; este era el día de Año Nuevo:\n\nY al primer día del quinto mes, llegó a Jerusalén; el primer día del mes de Ab, como se indica en el versículo anterior, de modo que estuvo durante cuatro meses en su viaje:\n\ngracias a la bondad de su Dios, a su poder y providencia, que le brindaron a él y a su compañía salud y fortaleza, que les proporcionaron todo lo necesario, que los guiaron, protegieron y defendieron, y que los llevaron seguros hasta el final de su viaje."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 10,
+   "ate_capitulo": 7,
+   "ate_versiculo": 10,
+   "texto": "Porque Ezra había preparado su corazón para buscar la ley del Señor,.... Para alcanzar el conocimiento de ello, de modo que pudiera dominarlo y ser experto en ello, y saber qué no debía hacerse y qué debía hacerse, él había puesto todo su empeño en esto, había dirigido sus estudios en esta dirección, y había dedicado mucho esfuerzo a investigarlo, leerlo y meditar sobre ello:\n\ny llevarlo a cabo; no solo le preocupaba comprender la teoría, sino también aplicarla en la práctica, ejercitarse en ella, para que se convirtiera en un hábito; y aún más, porque su visión e intenciones no eran solo para su propio beneficio, sino\n\npara enseñar en Israel leyes y normas: por lo tanto, no solo era necesario que tuviera un amplio y profundo conocimiento de las leyes, morales, rituales y civiles, sino que también debía actuar de acuerdo con ellas, para que, a través de su ejemplo, así como de sus instrucciones, pudiera enseñar al pueblo."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 11,
+   "ate_capitulo": 7,
+   "ate_versiculo": 11,
+   "texto": "Aquí está la copia de la carta que el rey Artajerjes envió a Esdras, el sacerdote,.... Este título, que se refiere a su cargo, le fue otorgado justamente, ya que era hijo de un sumo sacerdote y descendía directamente de Aarón, como lo demuestra la información sobre su linaje que se presenta anteriormente.\n\nEl escriba, incluso un escriba de las palabras de los mandamientos del Señor, y de sus estatutos para Israel; la repetición de la palabra \"escriba\" indica que era muy sabio y versado en la ley, en los mandamientos y estatutos que el Señor dio a Israel; no solo en el idioma en el que estaba escrito, sino también en el contenido y la esencia de estos textos, en las cosas que contenían; porque \"dibre\" significa tanto \"cosas\" como \"palabras\"."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 12,
+   "ate_capitulo": 7,
+   "ate_versiculo": 12,
+   "texto": "Artajerjes, rey de reyes,.... Siendo muchos reyes y reinos sujetos y vasallos a él; porque este no era simplemente un título altivo y pomposo que los reyes orientales (p) adoptaban, especialmente los persas; de hecho, después de Ciro, ellos lo eran, y él también adoptó este título, que se colocó en su monumento funerario: \"Aquí yace Ciro, rey de reyes (q)\". Este título se otorgó a los reyes griegos, especialmente a Agamenón, a quien se le llamaba \"rey de reyes\" (r), quien era el general durante el sitio de Troya, bajo cuyo mando lucharon los demás reyes. Si este era Darío Histaspo, Ciro tuvo un sueño en el que vio que este tenía alas en sus hombros, con una cubría Asia y con la otra, Europa (s).\n\na Esdras, el sacerdote, escriba de la ley del Dios del cielo; para más información sobre estos títulos, véase Esdras 7:11.\n\npaz plena, y en tal momento; la palabra \"plena\" pertenece al título de Esdras como escriba, lo que indica que era un escriba o maestro de la ley de Dios sumamente culto y completo; la palabra \"paz\" no aparece en el texto, y la frase \"en tal momento\" se refiere a la fecha de la carta, aunque no se expresa explícitamente, o es simplemente una \"etcétera\"; véase la interpretación de Gill sobre Esdras 4:10.\n\n(p) See the Universal History, vol. 5. p. 16, 137. & vol. 11. p. 7, 8. margin, & p. 66.\n(q) Strabo, Geograph. l. 15. p. 502.\n(r) Vell. Patercul. Hist. Roman. l. 1. in initio.\n(s) Herodot. Clio, sive, l. 1. c. 209."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 13,
+   "ate_capitulo": 7,
+   "ate_versiculo": 13,
+   "texto": "Declaro,.... Según las leyes de los medos y los persas, una vez firmado, un decreto no podía ser alterado, como se menciona en Daniel 6:8.\n\nque todos los habitantes de Israel, así como sus sacerdotes y levitas, que residen en mi reino; aquellos que permanecieron allí y no aprovecharon el edicto de Ciro, que les permitía partir; pero al desaprovechar esa oportunidad, parece que ahora no pueden salir del reino sin una nueva autorización, la cual se concede por medio de este documento:\n\naquellos que deseen voluntariamente viajar a Jerusalén, pueden hacerlo con usted; esta ordenanza no los obligaba a viajar, ya sea que quisieran o no; pues, a pesar de esto, podían permanecer si así lo deseaban; simplemente les daba la opción de aprovechar la presente oportunidad para viajar junto a Esdras, si así lo elegían."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 14,
+   "ate_capitulo": 7,
+   "ate_versiculo": 14,
+   "texto": "Dado que has sido enviado por el rey y sus siete consejeros,.... El número de consejeros que los reyes de Persia solían tener se remontaba a los tiempos de Darío Hystaspis, quien fue elegido entre siete nobles para ser rey. Desde entonces, los reyes persas siempre contaron con siete consejeros privilegiados, al igual que esos nobles (Ester 1:14). Esdras tuvo el honor de ser enviado con una comisión por este rey y sus siete consejeros.\n\npara averiguar sobre Judá y Jerusalén; sobre sus habitantes, para saber si tenían conocimiento de la ley de su Dios, que estaba en su poder, y si se comportaban de acuerdo con ella; él tenía una copia de esa ley consigo, y era muy experto en ella, conocía a fondo sus preceptos, y podía determinar con facilidad y rapidez si sus acciones estaban de acuerdo con ella o no."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 15,
+   "ate_capitulo": 7,
+   "ate_versiculo": 15,
+   "texto": "Y para transportar la plata y el oro que el rey y sus consejeros han ofrecido libremente al Dios de Israel, cuyo templo está en Jerusalén. En el templo construido allí; para el servicio del cual, ya sea para adquirir y obtener los utensilios que faltaban, o para los sacrificios que se ofrecían en él, el rey y sus nobles habían hecho una contribución voluntaria y confiaron a Ezra esta suma, enviándolo con ella."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 16,
+   "ate_capitulo": 7,
+   "ate_versiculo": 16,
+   "texto": "Y todo el oro y la plata que puedas encontrar en toda la provincia de Babilonia,.... No que pudiera llevárselo a donde lo encontrara, independientemente de si los dueños estaban dispuestos a que él lo tuviera o no; sino que todo aquello que se le ofreciera libremente, como indica Jarchi, era lo que se le permitía tomar, y podía llevarse todo lo que pudiera obtener de esa manera.\n\ncon las ofrendas voluntarias del pueblo; de los judíos, quienes consideraron conveniente permanecer en la provincia:\n\ny de los sacerdotes, que ofrecieron voluntariamente para la casa de su Dios, que está en Jerusalén; esas ofrendas voluntarias, ya fueran de los habitantes de Babilonia o de cualquier miembro de la nación judía, destinadas al servicio del templo en Jerusalén, él tenía permiso y autorización para llevar consigo."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 17,
+   "ate_capitulo": 7,
+   "ate_versiculo": 17,
+   "texto": "Para que puedas comprar rápidamente con este dinero,.... Así, cada uno contribuyó libremente con lo que podía.\n\nbueyes, carneros y corderos; que eran para los sacrificios de fuego:\n\njunto con sus ofrendas de alimentos y sus libaciones; que siempre acompañaban los sacrificios de fuego, según la ley de Moisés; y de los cuales, sin duda, el rey tenía un conocimiento profundo, habiendo sido, probablemente, instruido por Esdras, o por otro judío en su corte:\n\ny ofrézcanlos sobre el altar de la casa de vuestro Dios, que está en Jerusalén; el altar de los sacrificios de fuego que hay en ese templo."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 18,
+   "ate_capitulo": 7,
+   "ate_versiculo": 18,
+   "texto": "Y todo aquello que te parezca bien a ti y a tus hermanos,.... Los sacerdotes, a quienes él considerara adecuados para que le asistieran en esta tarea:\n\nrelacionado con el resto de la plata y el oro; que debía quedar después de que se ofrecieran los sacrificios:\n\nque se haga de acuerdo con la voluntad de su Dios; tal como él lo indique o como se establezca en la ley."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 19,
+   "ate_capitulo": 7,
+   "ate_versiculo": 19,
+   "texto": "También los utensilios que te fueron entregados para el servicio de la casa de tu Dios,.... Estos eran recipientes de plata, cuencos de oro y utensilios de cobre fino; no eran los objetos que antes pertenecían al templo, sino que fueron entregados por Ciro a Sesbasar; pero lo que el rey actual y sus consejeros ofrecieron libremente en este momento, como se puede ver en Ezra 8:25, eran estos.\n\n\"Ofrece esto ante el Dios de Jerusalén; que el número completo sea perfecto y cumplido, como la palabra indica (t); esto no significa que deban ser ofrecidos ante él o en su presencia como testigos de ello, sino que deben ser dedicados y consagrados a su servicio, al que se adoraba en el templo de Jerusalén y por sus habitantes. Parece que él consideraba a este dios como una divinidad local, el dios de ese lugar específico, lo cual era la concepción de los paganos, como se ve en 1 Reyes 20:23, aunque también habla de él como el Dios del cielo.\"\n\n(t) \"integra et pleno numero redde\", Michaelis."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 20,
+   "ate_capitulo": 7,
+   "ate_versiculo": 20,
+   "texto": "Y todo aquello que sea necesario para la casa de tu Dios, y que te resulte conveniente proporcionar,.... Para la embellecimiento y decoración del templo, Ézra 7:27.\n\nconcederla de los fondos reales; donde se depositaban los ingresos recaudados a través de impuestos, tasas y aranceles; su tesorería, como podría llamársele, véase Ezra 6:8."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 21,
+   "ate_capitulo": 7,
+   "ate_versiculo": 21,
+   "texto": "Yo, Artajerjes, rey, decreto lo siguiente a todos los tesoreros que se encuentran al otro lado del río,.... Los encargados de recaudar sus impuestos, tributos y aranceles, más allá del río Éufrates, en la dirección hacia la tierra de Israel:\n\nque todo lo que Esdras, el sacerdote y escriba de la ley del Dios del cielo, solicite de ustedes, se haga sin demora; véase Esdras 7:12.\n\nEsto parece, a primera vista, una concesión amplia para todo lo que él pudiera necesitar o exigir, pero está limitada y restringida por lo que sigue."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 22,
+   "ate_capitulo": 7,
+   "ate_versiculo": 22,
+   "texto": "Hasta cien talentos de plata,.... Esto equivalía a 35.300 libras esterlinas; según Jarchi, esta cantidad se debía utilizar para comprar las ofrendas o sacrificios.\n\ny cien medidas de trigo; o de maíz, la misma medida que el \"homer\", cada una de las cuales contenía diez \"efas\", o setenta y cinco galones de vino, cinco pintas, y más; según el mismo autor, estos eran para las ofrendas de alimentos, hechas de harina fina, o más bien, ofrendas de pan, como podrían llamarse:\n\ny cien \"baths\" de vino; que era la misma medida para líquidos que el \"efah\" para productos sólidos, una décima parte del \"cor\" o \"homer\", y contenía siete galones de vino, cinco pintas, y más (u); estos eran para las ofrendas de bebida:\n\ny cien \"baths\" de aceite; la misma medida que antes; estos se mezclaban en las ofrendas de alimentos:\n\ny sal, sin especificar la cantidad; porque se utilizaba en todas las ofrendas, era barata, y por lo tanto, no se fija una medida, sino que se debía proporcionar la cantidad necesaria, véase Levítico 2:1.\n\n(u) See Cumberland's Scripture Weights and Measures, ch. 4. p. 137."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 23,
+   "ate_capitulo": 7,
+   "ate_versiculo": 23,
+   "texto": "Cualquier cosa que mande el Dios del cielo,.... En la ley que Moisés entregó al pueblo de Israel:\n\nQue se lleve a cabo con diligencia para la casa del Dios de los cielos; para su servicio, especialmente los sacrificios.\n\n¿Por qué habría de haber ira contra el reino del rey y sus hijos? Debido a la negligencia en el servicio a Dios en el templo, y por la falta de diligencia de los tesoreros del rey."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 24,
+   "ate_capitulo": 7,
+   "ate_versiculo": 24,
+   "texto": "Asimismo, les certificamos que, con respecto a cualquier sacerdote, levita, cantor, portero, siervo o ministro de esta casa de Dios,.... El rey tenía pleno conocimiento y estaba al tanto de las diferentes funciones y servicios que desempeñaban esas personas, como se puede ver en Ezra 7:7.\n\nNo será legal imponer peajes, tributos o impuestos a ellos; de esta manera, estarán menos preocupados por los asuntos de la vida y tendrán más tiempo para asistir a los servicios religiosos, y podrán hacerlo con mayor disposición y libertad. Era costumbre entre los paganos eximir a los clérigos de impuestos, tributos e impuestos; así ocurrió con los sacerdotes en Egipto (w), y con los druidas aquí, en Gran Bretaña (x).\n\n(w) Diodor. Sicul. l. 1. p. 66.\n(x) Caesar. Comment. de Bello Gall. l. 6. c. 13."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 25,
+   "ate_capitulo": 7,
+   "ate_versiculo": 25,
+   "texto": "Y tú, Ezra, siguiendo la sabiduría de tu Dios, que está en tu poder,.... De la cual él tenía una gran parte, otorgada por el Señor, y que podía utilizar con gran provecho; y esto podría referirse a la ley de Dios, establecida con la mayor sabiduría, y cuyo conocimiento y cumplimiento son una muestra de sabiduría en los hombres, según se indica en Deuteronomio 4:6.\n\ndesignen magistrados y jueces, que puedan juzgar a todo el pueblo que vive al otro lado del río, a todos aquellos que conocen las leyes de vuestro Dios; a aquellos a quienes, con su gran sabiduría, Dios designó para que fueran nombrados líderes del pueblo, para que impartieran justicia; para que los instruyeran en todas las cuestiones controvertidas que pudieran surgir entre ellos, y para que tomaran decisiones de acuerdo con ello; y para que los guiaran hacia un conocimiento más profundo y mejor de estas leyes, Deuteronomio 16:18. Jarchi interpreta la palabra \"designen\" como un comparativo, y el sentido es que la sabiduría de Esdras era mayor que la de los jueces que juzgaban al pueblo, y mayor que la de aquellos que conocían la ley.\n\n\"Enseñen a aquellos que no las conocen; a aquellos que son ignorantes de ellas\", aunque el autor mencionado interpreta esto como jueces ignorantes: \"el juez que no sabe juzgar, debe aprender a impartir justicia para poder hacerlo\"."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 26,
+   "ate_capitulo": 7,
+   "ate_versiculo": 26,
+   "texto": "Y aquel que no cumpla con la ley de tu Dios, ni con la ley del rey,.... Ya sea el juez que retrasa la sentencia, o que no la ejecuta de acuerdo con la ley de Dios y la ley del rey; o el pueblo, que no obedece la ley de Dios en asuntos religiosos, ni la ley del rey en asuntos civiles, siendo Judea ahora una provincia del imperio persa; aunque algunos creen que la ley del rey se refiere únicamente a esta ley o decreto real, que otorgó a los judíos el poder de ejecutar sus propias leyes.\n\nque se ejecute la sentencia contra él con rapidez; inmediatamente, sin demora, de acuerdo con la naturaleza de su delito:\n\nya sea la pena de muerte; si es culpable de un delito capital, que merezca la muerte, que se le ejecute la pena capital:\n\no el exilio; de su país natal a una tierra lejana:\n\no la eliminación total (y), como indica la palabra; una erradicación completa de él y de su familia, una destrucción total de él y de sus raíces; o, como expresa Jarchi, una eliminación de él del mundo, de su descendencia y de su familia:\n\no la confiscación de bienes; el pago de multas y sanciones:\n\no la prisión; por un período de tiempo determinado; todo ello según la infracción de la ley de la que sea culpable; hasta aquí llega el decreto del rey.\n\n(y) \"ad eradicationem ejus\", Pagninus, Montanus; \"ad eradicationem\", Tigurine version, Vatablus, De Dieu, Michaelis."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 27,
+   "ate_capitulo": 7,
+   "ate_versiculo": 27,
+   "texto": "Bendito sea el Señor Dios de nuestros antepasados,.... Esta es la expresión de gratitud de Ezra a Dios por la ordenanza mencionada:\n\nque ha puesto en el corazón del rey una idea como esta; idea que él, con razón, atribuyó a Dios, quien le impulsó a desear y a actuar:\n\npara embellecer la casa del Señor que está en Jerusalén; para proveer los recursos necesarios para su decoración, para los utensilios que contiene, así como para los sacrificios; pues la construcción de la misma ya estaba terminada."
+  },
+  {
+   "capitulo": 7,
+   "versiculo": 28,
+   "ate_capitulo": 7,
+   "ate_versiculo": 28,
+   "texto": "Y me ha mostrado misericordia, ante el rey y sus consejeros, y ante todos los poderosos príncipes del rey,.... Ante Artajerjes, sus siete consejeros, según se indica en Ezra 7:14, y los nobles de su reino, se les encomendó llevar sus ofrendas voluntarias a Jerusalén, así como las órdenes del rey a sus tesoreros. Se les concedió la autorización para llevar consigo a tantos judíos como estuvieran dispuestos a viajar.\n\ny yo fui fortalecido, pues la mano del Señor, mi Dios, estaba sobre mí; me sentí impulsado a emprender esta tarea y a llevar a cabo esta misión, estando bajo la influencia de la gracia y la protección divina:\n\ny reuní a hombres importantes de Israel para que me acompañaran; viajó por las diferentes regiones donde vivían los israelitas, y persuadió a algunos de los principales hombres entre ellos para que lo acompañaran a Jerusalén, mostrándoles el decreto del rey, que les daba permiso; sus nombres y números se detallan en el siguiente capítulo."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 1,
+   "ate_capitulo": 8,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 8\n\nEn este capítulo, se nos informa sobre quiénes y cuántas personas acompañaron a Ezra a Jerusalén (Ezra 8:1). Se describe la reunión de este grupo junto a un río, desde donde Ezra envió mensajeros a Babilonia para que los levitas fueran a él, lo cual ocurrió (Ezra 8:15). También se menciona la proclamación de un ayuno para asegurar un viaje seguro y próspero (Ezra 8:21). Los objetos y el dinero que se le habían entregado a Ezra fueron puestos en manos de los sacerdotes, quienes se encargaron de su custodia (Ezra 8:24). Finalmente, se relata su llegada segura a Jerusalén, donde depositaron las ofrendas en el templo, ofrecieron sacrificios a Dios y entregaron los encargos del rey a sus lugartenientes y gobernadores (Ezra 8:31).\n\nEstos son ahora los jefes de sus familias, y esta es la genealogía de ellos,.... Lo que sigue a continuación, desde este punto hasta el final de Ezra 8:14.\n\nque subieron conmigo desde Babilonia, junto con Esdras, el sacerdote y escriba, autor de este libro:\n\ndurante el reinado de Artajerjes, el rey; es decir, Darío Histaspo, en el séptimo año de su reinado, como se indica en Esdras 7:1, aunque muchos creen que se refiere a Artajerjes Longímano."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 2,
+   "ate_capitulo": 8,
+   "ate_versiculo": 2,
+   "texto": "De los hijos de Fineas: Gershom, de los hijos de Itamar; Daniel,.... No se trata de Daniel el profeta, quien era de la estirpe real y de la tribu de Judá; este era un sacerdote, descendiente de Itamar, al igual que Gershom era descendiente de Eleazar, en la línea de Fineás.\n\nde los hijos de David; Hattush; posiblemente la misma persona mencionada en 1 Crónicas 3:22, quien era descendiente del rey David; parece que estos tres hombres llegaron solos, sin sus familias, al menos eso es lo que indica el texto, ya que no se mencionan ni se dan detalles sobre su número, a diferencia del resto de los mencionados."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 3,
+   "ate_capitulo": 8,
+   "ate_versiculo": 3,
+   "texto": "De los hijos de Secanías, de los hijos de Farosh,.... ¿Quién es descrito de esa manera, para distinguirlo de otro Shecanías? (Esdras 8:5).\n\nZacarías: y con él, según el registro genealógico, había ciento cincuenta hombres; solo se contaban a los hombres, no a las mujeres ni a los niños; aunque es evidente, según Ezra 8:21, que hubo mujeres y niños que ascendieron. Desde este punto hasta el final de Ezra 8:14, se proporciona un recuento del número de hombres que ascendieron con Ezra, quienes eran principalmente, si no totalmente, hijos de aquellos que habían ascendido con Zorobabel. De aquellos que quedaron atrás y que ahora regresaron, al menos un gran número, véase Ezra 2:1. Se hace especial mención de los hijos de Adonikam en Ezra 8:13, indicando que eran los últimos; no porque fueran los últimos en llegar para acompañar a Ezra, ni porque fueran lentos o tardíos, sino porque eran los últimos en relación con el primer hijo que había partido antes, y parece que constituían toda su familia. El número total de personas que ascendieron bajo sus respectivos líderes asciende a 1496."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 15,
+   "ate_capitulo": 8,
+   "ate_versiculo": 15,
+   "texto": "Y los reuní junto al río que fluye hacia Ahava,.... De donde también el río tomó el mismo nombre; o que, según se puede ver en Ezra 8:21, el nombre proviene del río, y podría ser el mismo que Adiabene, una región de Asiria, que recibió su nombre del río Adiava.\n\nY allí permanecimos en tiendas durante tres días; o bien, establecimos nuestro campamento; este era el lugar de encuentro:\n\nY observé a la gente y a los sacerdotes; los reuní, tomé el número de ellos, y determiné de qué tribus y familias provenían:\n\nY descubrí que allí no había ninguno de los hijos de Levi, excepto los sacerdotes."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 16,
+   "ate_capitulo": 8,
+   "ate_versiculo": 16,
+   "texto": "Luego, convoqué a Eliezar, a Ariel, a Semaías, a Elnatan, a Jarib, a Elnatan, a Natán, a Zacarías y a Mesulam, que eran los principales; también convoqué a Joiarib y a Elnatan, hombres de entendimiento. Todos ellos estaban en el campamento, en alguna parte de él, y Ezra les envió mensajeros para que fueran a verlo. Tres de ellos tenían el mismo nombre. Los nueve primeros eran hombres de gran importancia, rango y dignidad en sus familias, y los otros dos eran conocidos por su buen juicio y su capacidad para analizar situaciones, lo que los hacía aptos para ser enviados en asuntos como este."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 17,
+   "ate_capitulo": 8,
+   "ate_versiculo": 17,
+   "texto": "Y los envié con una orden a Iddo, el jefe, al lugar llamado Casiphia,.... No se trata de un lugar junto al mar Caspio, ni cerca de las montañas del Caspio, como Munster, que estaba demasiado lejos para poder ir y regresar en el tiempo que tenían disponible, como se menciona en Ezra 7:9. Más bien, como sugiere Jarchi, es un lugar en Babilonia con ese nombre, un pueblo cercano, o una parroquia o calle dentro de la ciudad, donde Ezequías sabía que vivían muchos levitas y netinín, y donde Iddo era el jefe de los levitas, y estaba a cargo de ambos grupos.\n\nY les indiqué lo que debían decir a Iddo y a sus hermanos, los netinims, en el lugar de Casifia; pero Iddo no era uno de los netinims, porque era el jefe de los levitas, y por su autoridad muchos de ellos fueron enviados, así como los netinims; pero ninguno de estos últimos estaba al mando de los levitas, porque eran sus sirvientes (Esdras 8:20). Sin embargo, según Jarchi, los netinims no están mencionados en absoluto en esta cláusula, y quien lee las palabras:\n\n\"a Iddo y a Ajim\" (el nombre de un hombre que estaba con él; quizás sea mejor traducirlo como \"a Iddo y a su hermano\"),\n\nquienes fueron designados o establecidos en el lugar de Casifia; y De Dieu está de acuerdo con esto, y así lo dice la versión siríaca:\n\n\"quienes habitaban en Casifia: para que nos traigan ministros para la casa de nuestro Dios; tanto levitas que canten y sean porteros allí, como netinims que les sirvan\"."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 18,
+   "ate_capitulo": 8,
+   "ate_versiculo": 18,
+   "texto": "Y gracias a la gracia y el favor de nuestro Dios, que están con nosotros,.... Favoreciendo sus diseños y pedidos, protegiendo a aquellos que eran enviados, e impulsando a aquellos a quienes se les enviaba a utilizar su influencia y autoridad con aquellos que estaban bajo su mando, y haciéndolos también dispuestos a aceptar lo que se les proponía:\n\nNos presentaron a un hombre sabio, descendiente de los hijos de Mahli, hijo de Levi, hijo de Israel; un israelita de la tribu de Levi, perteneciente a la línea de Mahli, que era hijo de Merari, el tercer hijo de Levi:\n\nY Sherebiah; o mejor dicho, \"incluso Sherebiah\", según Aben Ezra; porque él es el hombre sabio al que se refiere y que se describe a través de su linaje:\n\nJunto con sus hijos y sus hermanos, había dieciocho personas en total."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 19,
+   "ate_capitulo": 8,
+   "ate_versiculo": 19,
+   "texto": "Y Hashabiah, y con él Jesaja, hijo de Merari,.... Estos pertenecían a la misma división de levitas que Seravía.\n\nsus hermanos y sus hijos, veinte; estos, junto con los treinta y ocho, y con aquellos que habían venido con ellos, eran todos levitas; los netinín los seguían."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 20,
+   "ate_capitulo": 8,
+   "ate_versiculo": 20,
+   "texto": "También pertenecían a los \"netineos\", aquellos que David y los príncipes habían designado para servir a los levitas,.... Para atenderlos y servirlos, como lo hacían con los sacerdotes; algunos creen que eran los mismos que los habitantes de Gibea, a quienes Josué destinó al servicio del santuario y que David confirmó; pero otros opinan que eran diferentes de ellos y que se sumaron a ellos.\n\nDos cientos veintidós personas de la clase de los \"netineos\": todos ellos fueron mencionados por su nombre; en el informe que Iddo envió a Ezra; y de manera similar, aunque los nombres de los levitas no se mencionan aquí, solo se indican los nombres de aquellos que llegaron con ellos."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 21,
+   "ate_capitulo": 8,
+   "ate_versiculo": 21,
+   "texto": "Luego, allí, junto al río Ahava, decreté un ayuno,.... Después de que los mensajeros enviados a Iddo regresaron con las personas que habían llevado consigo:\n\npara que nos humilláramos ante nuestro Dios; para que se humillaran ante él por sus pecados, los confesaran y declararan su arrepentimiento por ellos, y pidieran perdón por ellos:\n\npara buscar de él un camino correcto para nosotros; para partir de allí hacia Jerusalén, y ser guiados por él en ese camino: ya sea a través de un profeta, o por una visión en un sueño, como en el caso de Eben Ezra; o, más bien, por la guía de su providencia. Esto lo buscaron en oración a orillas del río, donde era costumbre para ellos, y lo ha sido desde entonces, realizar actividades religiosas, como se menciona en Ezequiel 1:1. Por lo tanto, Tertuliano (z) llama a las oraciones de los judíos \"oraciones costeras\". No buscaban tanto cuál era el camino más corto y fácil para viajar, sino cuál era el más seguro:\n\ny por nuestros hijos pequeños y por todas nuestras posesiones; por el transporte seguro de ellos. Esto demuestra que, aunque solo se contaban a los hombres, como se mencionó anteriormente, también tenían a sus esposas e hijos con ellos; porque es imposible imaginar la existencia de niños pequeños sin mujeres que los cuiden.\n\n(z) Ad nationes, l. 1. c. 13. Vid. lib. de jejuniis, c. 16."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 22,
+   "ate_capitulo": 8,
+   "ate_versiculo": 22,
+   "texto": "Sentía vergüenza de solicitar la presencia de soldados y jinetes del séquito real,.... Lo que él podría haber obtenido simplemente pidiendo, tanto era el interés que tenía en ganarse el favor del rey.\n\npara ayudarnos contra el enemigo en el camino; los árabes, los samaritanos y otros, que podrían emboscarles para robarles sus bienes:\n\nporque habíamos hablado con el rey: sobre el favor especial de Dios hacia ellos, sobre su providencia singular en la protección de ellos:\n\ndiciendo: \"La mano de nuestro Dios está sobre todos aquellos que le buscan para su bien; sobre aquellos que le oran, le sirven y le adoran; su mano está abierta para otorgarles todo bien necesario, tanto material como espiritual, y su poder y su providencia están sobre ellos para protegerlos y defenderlos de todo mal\":\n\npero su poder y su ira están contra todos aquellos que le abandonan; contra su palabra, sus caminos y su culto; su poderosa ira, o la fuerza de la misma, se ejerce contra ellos, y seguramente sentirán el peso y los terribles efectos de ella: y ahora, después de que todo esto se le dijo al rey, y luego, al pedir una guardia para protegerlos, parecería que no tenían ese favor a los ojos de Dios, y que no creían lo que habían dicho, sino que desconfiaban de su poder y de su providencia hacia ellos; por lo tanto, en lugar de reflejar cualquier deshonra sobre Dios, eligieron exponerse al peligro, buscando su rostro y su favor, y confiando en su bondad y su poder."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 23,
+   "ate_capitulo": 8,
+   "ate_versiculo": 23,
+   "texto": "Así, ayunamos y suplicamos a nuestro Dios por este asunto,.... Busqué la ayuda del Señor mediante el ayuno y la oración, pidiendo un viaje exitoso y protección durante el mismo.\n\ny nosotros le suplicamos; aceptó su petición, como lo indica Jarchi, de modo que llegaron sanos y salvos a Jerusalén."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 24,
+   "ate_capitulo": 8,
+   "ate_versiculo": 24,
+   "texto": "Luego, separé a doce de los principales sacerdotes,.... Estaban acompañados de otras personas; por lo que parece que había más de las dos mencionadas. Es muy probable que sus familias o algunos de sus hermanos estuvieran con ellos: Ezra 8:2.\n\nSherebiah, Hashabiah y diez de sus hermanos, quienes estaban con ellos; estos hombres, llamados así, eran levitas, no sacerdotes (Ezra 8:18), por lo tanto, es necesario añadir la conjunción \"y\":\n\ny Sherebiah, etc., o junto con los doce sacerdotes, Sherebiah, etc., y diez levitas más que estaban con ellos; de esta manera, el número de sacerdotes y levitas era igual, sumando un total de veinticuatro."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 25,
+   "ate_capitulo": 8,
+   "ate_versiculo": 25,
+   "texto": "Y yo pesé para ellos la plata, el oro y los utensilios,.... Cuando se los entregó, lo hizo como una prueba de su propia integridad y lealtad, y como una garantía contra cualquier acusación de haber malversado parte de ellos, para darles un ejemplo, y también para que no tuvieran la tentación de actuar de esa manera, y para que pudieran ser exonerados en caso de que se les acusara de ello: incluso.\n\nla ofrenda de la casa de nuestro Dios; lo que se ofreció voluntariamente para su servicio:\n\nque el rey, sus consejeros, sus nobles y todo Israel presente allí habían ofrecido; como ofrendas voluntarias, véase Ezra 7:15."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 26,
+   "ate_capitulo": 8,
+   "ate_versiculo": 26,
+   "texto": "Incluso les entregué seiscientos cincuenta talentos de plata,.... Según Scheuchzer, esto equivalía a 975 (a).000 monedas imperiales, y, en nuestra moneda, a 2.229.450 libras esterlinas. Además, había cien recipientes de plata, que representaban 35.300 libras, o 50.000 monedas imperiales. Según Jarchi, había cien recipientes, y cada uno pesaba un talento. Aben Ezra también menciona esto, y (b), según Brerewood, cada recipiente pesaba trescientas setenta y cinco libras.\n\ny de oro, cien talentos; según Scheuchzer (c), esto equivalía a 1.222.000 ducados de oro; el valor actual del oro es de más de 14 y 3 denarios por cada unidad de plata, lo que permite apreciar la diferencia entre cien talentos de oro y cien talentos de plata. Según David de Pomis (d), existían dos tipos de talentos: los talentos comunes, que pesaban sesenta libras, y el talento del santuario, que pesaba el doble.\n\n(a) Physica Sacra, vol. 4. p. 651.\n(b) De Pond. & Pret. Vet. Num. c. 4.\n(c) Ut supra. (Physica Sacra, vol. 4. p. 651.)\n(d) Tzemach David, fol. 57. 3."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 27,
+   "ate_capitulo": 8,
+   "ate_versiculo": 27,
+   "texto": "También, veinte recipientes de oro, de mil dramas cada uno,.... Se trataba de más de 1000 libras de nuestro dinero. El obispo Cumberland afirma (e) que el \"daric\", la \"dracma\" o el \"dracmo\" persa pesaba veinte chelines y cuatro peniques. Además, según el Dr. Bernard, superaba en dos granos el valor de una de nuestras guineas; véase la obra de Gill sobre 1 Crónicas 29:7.\n\ny dos recipientes de cobre fino, preciosos como el oro; quizás se trate del bronce del que habla Aristóteles (f), que es tan brillante y puro, y está libre de óxido, que no se puede distinguir de oro por su color, y que entre las copas de Darío existen algunas que solo se pueden identificar como bronce o oro por su olor: la versión siríaca lo interpreta como bronce corintio, que era una mezcla de oro, plata y cobre, fabricado cuando Corinto fue destruida, y que es extremadamente valioso; Plinio (g) describe tres tipos de este bronce, muy preciados, y afirma que su valor es casi igual, e incluso superior, al de la plata, y casi al del oro; pero este tipo de bronce aún no existía: Kimchi (h) interpreta la palabra en este contexto refiriéndose a su color, que es similar al del oro.\n\n(e) Scripture Weights and Measures, ch. 4. p. 115.\n(f) De Mirabilibus, p. 704, vol. 1.\n(g) Nat. Hist. l. 34. c. 1, 2.\n(h) Sepher Shorash. rad."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 28,
+   "ate_capitulo": 8,
+   "ate_versiculo": 28,
+   "texto": "Y les dije: ustedes son sagrados para el Señor, y también los utensilios son sagrados,.... Dado que estaban consagrados y destinados a un servicio sagrado, los utensilios también eran sagrados y, por lo tanto, no debían ser utilizados para ningún otro propósito.\n\nY la plata y el oro son ofrendas voluntarias al Señor, Dios de vuestros antepasados, y por lo tanto, deben utilizarse únicamente para su servicio."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 29,
+   "ate_capitulo": 8,
+   "ate_versiculo": 29,
+   "texto": "Estén atentos y cuídenlos,.... Que los barcos, el oro y la plata no sufran daños ni disminuciones.\n\nhasta que los pesen ante el principal de los sacerdotes y los levitas, y ante el principal de los padres de Israel, en Jerusalén, en las cámaras de la casa del Señor: es decir, hasta que los hayan entregado con el peso exacto, tal como los habían recibido, en presencia de esas personas como testigos, y los hayan puesto en sus manos, para que sean guardados en las cámaras y almacenes del templo."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 30,
+   "ate_capitulo": 8,
+   "ate_versiculo": 30,
+   "texto": "Así, los sacerdotes y los levitas se llevaron [lo que fuera que se llevó],.... Los doce sacerdotes y los doce levitas, mencionados en Ezra 8:24,\n\nEl peso de la plata y del oro, así como de los utensilios, se debía llevar a Jerusalén, a la casa de nuestro Dios; y ellos se comprometieron a hacerlo, y así lo hicieron."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 31,
+   "ate_capitulo": 8,
+   "ate_versiculo": 31,
+   "texto": "Luego, partimos del río de Ahava, el día doce del primer mes, con destino a Jerusalén,.... El mes de Nisan, que corresponde a parte de marzo y parte de abril; esto ocurrió dos días antes de que comenzara la Pascua.\n\ny la mano de nuestro Dios estaba con nosotros, guiándolos, dirigiéndolos y protegiéndolos por su providencia:\n\ny nos liberó de la mano del enemigo y de aquellos que tendían emboscadas en el camino, ya sea intimidándolos para que no se atrevieran a atacarlos, o dirigiéndolos para que tomaran un camino diferente, por el cual lograron escapar, como se puede ver en Esdras 8:22."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 32,
+   "ate_capitulo": 8,
+   "ate_versiculo": 32,
+   "texto": "Y llegamos a Jerusalén, donde permanecimos tres días. Antes de ocuparse de cualquier asunto, entregaron lo que les había sido confiado para el uso del templo, así como los documentos a los funcionarios del rey; ya que era justo que tuvieran algo de descanso después de un viaje tan agotador."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 33,
+   "ate_capitulo": 8,
+   "ate_versiculo": 33,
+   "texto": "Ahora, en el cuarto día,.... Después de su llegada a Jerusalén:\n\nSe pesó la plata, el oro y los utensilios en la casa de nuestro Dios; el templo, para que se viera y se supiera que el peso exacto que se les había confiado se entregaba ahora fielmente:\n\nEsto lo hizo Meremoth, hijo del sacerdote Uriah, y con él estaba Eleazar, hijo de Fineas; estos eran sacerdotes:\n\nY con ellos estaban Jozabad, hijo de Jeshua, y Noadiah, hijo de Binnui, levitas; dos sacerdotes y dos levitas; porque, dado que había personas de ambos grupos encargadas de estas tareas, era conveniente que, al momento de la pesada, hubiera representantes de ambos grupos, para que fueran testigos de su fidelidad."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 34,
+   "ate_capitulo": 8,
+   "ate_versiculo": 34,
+   "texto": "Por cantidad y por peso de todos,.... Fueron entregados por cantidad y peso, y esto coincidía exactamente con el número y el peso que se indicaban al recibirlos:\n\nY todo el detalle se registró en ese momento; se elaboró un documento escrito y se archivó, para que no solo se supiera en el futuro qué ofrendas voluntarias se habían realizado en Babilonia, sino también para que sirviera como prueba de la fidelidad y la integridad de aquellos que las ofrecieron, en caso de que alguna vez se cuestionara."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 35,
+   "ate_capitulo": 8,
+   "ate_versiculo": 35,
+   "texto": "También los hijos de aquellos que habían sido llevados cautivos, y que habían regresado de la esclavitud,.... Específicamente, aquellos que ahora viajaban con Esdras:\n\nofrecieron sacrificios de holocaustos al Dios de Israel, como muestra de agradecimiento por su liberación de la cautividad y por su viaje seguro:\n\ndoce toros para todo Israel, según el número de las tribus; y había representantes de cada tribu que habían llegado:\n\nnoventa y seis carneros, setenta y siete corderos; estos, junto con los toros, fueron sacrificios de holocaustos:\n\ndoce cabras para un sacrificio por el pecado, según el número de las doce tribus, también para expiar los pecados que habían cometido:\n\ntodo esto fue un sacrificio de holocaustos al Señor, excepto las doce cabras, que eran un sacrificio por el pecado."
+  },
+  {
+   "capitulo": 8,
+   "versiculo": 36,
+   "ate_capitulo": 8,
+   "ate_versiculo": 36,
+   "texto": "Y entregaron los documentos oficiales del rey a los lugartenientes del rey y a los gobernadores de la región al otro lado del río,.... Los gobernadores de las provincias de Siria, Palestina y Judea, que se encontraban al otro lado del río Éufrates, eran los que controlaban la tierra de Israel.\n\ny ellos ayudaron al pueblo y al templo de Dios; o, dicho de otra manera, \"los elevaron\" (i), aliviándolos de todas las cargas y liberándolos de todos los obstáculos, y asistiendo a ellos y proporcionándoles todo lo necesario, tal como lo ordenaba el decreto de Artajerjes; y proporcionaron todo lo que necesitaban para decorar el templo y para los sacrificios que se ofrecían en él; todo esto debe entenderse en referencia a los lugartenientes y gobernadores del rey, quienes obedecieron sus órdenes.\n\n(i) \"elevaverunt\", V. L. Piscator; \"exaltaverunt\", Pagninus, Montanus, Vatablus; \"sublevarunt\", Junius & Tremellius."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 1,
+   "ate_capitulo": 9,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 9\n\nCuando Ezra fue informado, por algunos de los príncipes que se quejaron ante él, de que muchos israelitas se habían casado con mujeres de la región, incluyendo cananeos y otros, él se sintió profundamente afligido y angustiado (Ezra 9:1). A raíz de esto, hizo una confesión de los pecados de su pueblo ante Dios, con gran vergüenza, tristeza y arrepentimiento, y lamentó los males que merecían (Ezra 9:6).\n\nAhora, cuando estas cosas sucedieron,.... Cuando los cautivos que viajaban con Ezra se habían recuperado, y habían pesado el dinero y los objetos que traían, y los habían entregado a las personas correspondientes, y habían ofrecido sacrificios, y habían entregado los documentos reales a sus lugartenientes y gobernadores, y habían mostrado los suyos propios:\n\nLos príncipes vinieron a mí; algunos de los nobles de Israel, los más religiosos entre ellos, quienes estaban preocupados por la corrupción que existía entre ellos, aunque no eran un número suficiente para reformarlos:\n\nDecían que el pueblo de Israel, los sacerdotes y los levitas, no se habían separado del pueblo de la tierra: sino que se habían unido a ellos, aunque no en prácticas idolátricas, sino mediante matrimonios, lo que podría llevarlos a ellas:\n\nEstaban actuando de acuerdo con sus abominaciones; no estaban sirviendo a ídolos como ellos, sino que los estaban imitando en sus matrimonios: incluso\n\ncon los cananeos, los perizitas, los jebusitas, los amonitas, los moabitas, los egipcios y los amorreos; la afinidad con muchos de estos estaba prohibida por una ley expresa, Deuteronomio 7:1, con la excepción de los moabitas, los amonitas y los egipcios, y de estos, también debían abstenerse por la misma razón: a saber, para evitar que fueran arrastrados a la idolatría. Que los sacerdotes y los levitas hicieran esto, quienes debían conocer la ley y educar mejor al pueblo, era algo muy triste y escandaloso."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 2,
+   "ate_capitulo": 9,
+   "ate_versiculo": 2,
+   "texto": "Porque ellos han tomado a sus hijas para sí mismos, y para sus descendientes,.... Algunos hombres viudos no solo se casaron con mujeres de las naciones mencionadas, ya sea en Babilonia, donde también residía gran parte de estas naciones, o, más bien, después de su regreso; sino que también tomaron esposas para sus hijos. De hecho, algunos hombres que ya tenían esposas, se casaron con mujeres de otras culturas, como se puede ver en Malaquías 2:13.\n\npara que la semilla santa, es decir, el pueblo que el Señor había separado de otras naciones, elegido para ser un pueblo santo por encima de todos los demás, y dedicado a su servicio y adoración:\n\nse haya mezclado con la gente de esas tierras, como se mencionó anteriormente, mediante matrimonios:\n\nsí, la mano de los príncipes y gobernantes ha sido la principal responsable de esta transgresión; ellos fueron los primeros en cometerla, los líderes de ella, quienes, con su autoridad y ejemplo, deberían haber restringido a otros; o bien, ellos mismos fueron\n\nresponsables de esta primera transgresión (i), que fue la primera y más grave que el pueblo cometió después de su regreso del cautiverio.\n\n(i) \"in praevaricatione ista prima\", Pagninus, Montanus."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 3,
+   "ate_capitulo": 9,
+   "ate_versiculo": 3,
+   "texto": "Y cuando escuché esto, desgarré mi ropa y mi capa,.... Tanto la ropa interior como la exterior, la que estaba pegada a su cuerpo y la que se colocaba suelta encima; y él hizo esto como señal de dolor y luto, como si algo muy terrible y angustioso hubiera ocurrido, como se puede ver en Job 1:20.\n\ny arrancó los pelos de mi cabeza y de mi barba; no los afeitó, y así no transgredió la ley de Levítico 19:27, sino que arrancó los pelos para demostrar su profundo pesar por lo que se le había comunicado; esto ha sido una práctica común entre los afligidos en diversas naciones en momentos de duelo, como se menciona en Isaías 15:2. De manera similar, en el \"apéndice\" apócrifo del libro de Ester, se dice: \"Se quitó sus hermosas vestimentas y se puso ropas de angustia y luto; y en lugar de preciosos ungüentos, se cubrió la cabeza con ceniza y estiércol, y humilló profundamente su cuerpo, y llenó todos los lugares de su alegría con sus cabellos arrancados\" (Ester 14:2). Se dice que ella llenó cada lugar de alegría con el acto de arrancarse los cabellos. Lavinia, en Virgilio (k), y varios pasajes de Homero (l), así como de otros autores, tanto griegos como latinos, son mencionados por Bochart (m) como ejemplos de esta práctica.\n\ny se sentó, asombrado; completamente sorprendido por la ingratitud del pueblo, que, después de recibir tantos favores, como el regreso de la cautividad a su propia tierra y su posterior asentamiento allí, se dejaban llevar por prácticas tan contrarias a la voluntad de Dios.\n\n(k) Aeneid. 12. prope finem. Vid. Ciceron. Tusc. Quaest. l. 3.\n(l) Vid. Iliad. 10. ver. 15. & Iliad. 22. ver. 77, 78, 406. & Iliad. 24. ver. 711.\n(m) Hierozoic. par. 1. l. 2. c. 45. col. 481."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 4,
+   "ate_capitulo": 9,
+   "ate_versiculo": 4,
+   "texto": "Se reunieron ante mí todas aquellas personas que sintieron temor ante las palabras del Dios de Israel,.... Tenían un profundo respeto por la palabra de Dios y por todo lo que contenía; temían transgredir las leyes de Dios y sentían temor ante sus juicios, que podrían recaer sobre aquellos que pecaran, como se menciona en Isaías 46:2.\n\ndebido a la transgresión de aquellos que habían sido llevados a Babilonia y que ahora habían regresado, lo cual agravaba su transgresión:\n\ny yo me quedé asombrado hasta el sacrificio de la tarde, o hasta la novena hora, según la versión siríaca, que correspondía aproximadamente a las tres de la tarde, momento en el que se ofrecía el sacrificio de la tarde; quizás fue por la mañana cuando Ezra recibió por primera vez la información de los príncipes."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 5,
+   "ate_capitulo": 9,
+   "ate_versiculo": 5,
+   "texto": "Y durante el sacrificio vespertino, me levanté de mi abatimiento,.... Las señales y los indicios de ello, especialmente el hecho de estar sentado en el suelo; o \"por mi ayuno\" (n), ya que no había comido nada ese día, siendo temprano en la mañana cuando se le informó sobre el caso mencionado:\n\ny habiendo alquilado mi túnica y mi manto; algo que ya había hecho antes, y que aún conservaba puestos, en la misma condición:\n\nme arrodillé y extendí mis manos hacia el Señor, mi Dios; adoptando la postura y el gesto de un humilde suplicante.\n\n(n) \"jejunio meo\", Michaelis; so Jarchi."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 6,
+   "ate_capitulo": 9,
+   "ate_versiculo": 6,
+   "texto": "Y dijo: \"¡Oh, mi Dios!\",.... Aquí comienza la oración de Esdras, una oración que expresa fe en Dios como el Dios de la alianza, incluso cuando estaba a punto de confesar sus pecados y arrepentirse de ellos. La oración verdadera es aquella que se ofrece con fe, y el arrepentimiento genuino es aquel que está acompañado de fe y que emana de ella.\n\nMe avergüenzo y me ruborizo al levantar mi rostro ante ti, mi Dios; una verdadera percepción y conciencia del pecado causan vergüenza y rubor, y nunca más que cuando un hombre es consciente de su relación con Dios, de su gracia y favor hacia él, particularmente en el perdón de su pecado, véase Ezequiel 16:61.\n\nPorque nuestras iniquidades han aumentado sobre nuestras cabezas; han surgido y se han hinchado como aguas poderosas, que parecían amenazar con abrumarnos:\n\ny nuestra transgresión ha crecido hasta los cielos; se ha cometido de manera abierta, pública e insolente, y en tal número que, como si estuvieran amontonados en montones, alcanzando el cielo, e invocando la venganza desde allí. Ezra se incluye a sí mismo como parte de la misma nación; y estos pecados, al ser tan comunes, se habían convertido en pecados nacionales, que involucraban a todos los individuos y los exponían a la ira divina."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 7,
+   "ate_capitulo": 9,
+   "ate_versiculo": 7,
+   "texto": "Desde los tiempos de nuestros antepasados, hemos estado cometiendo grandes errores hasta el día de hoy,.... Los pecados de los que se habían culpado se habían cometido durante mucho tiempo, lo cual agravaba su gravedad.\n\ny por nuestras injusticias, nosotros, nuestros reyes y nuestros sacerdotes, hemos sido entregados a los reyes de las tierras; las diez tribus y su rey, a la mano del rey de Asiria; los reyes de Judá, Joacim, Joacaz y Sedequías, a la mano del rey de Babilonia, junto con los sacerdotes y el pueblo:\n\nfueron entregados a la espada, al cautiverio y al saqueo; algunos fueron muertos con la espada, otros fueron llevados cautivos, y las casas de todos fueron saqueadas y despojadas:\n\ny sufrieron vergüenza, como lo hacen hoy; llenos de vergüenza al reflexionar sobre sus pecados, la causa de esos males; además, el cautiverio de las diez tribus continuó, así como el de muchos otros, lo que los expuso a la vergüenza entre sus vecinos."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 8,
+   "ate_capitulo": 9,
+   "ate_versiculo": 8,
+   "texto": "Y ahora, por un breve tiempo, hemos recibido la gracia de nuestro Dios,.... Había transcurrido poco tiempo desde que el Señor comenzó a mostrarles su favor, de modo que pronto comenzaron a rebelarse contra él. Esto revelaba una extraña inclinación de sus mentes hacia lo malo, y una tendencia de la cual no podían ser contenidos, a pesar de la reciente bondad de Dios hacia ellos.\n\npara dejarnos un grupo que pudiera escapar; para liberarnos del cautiverio, de donde un pequeño número fue devuelto con gracia y seguridad a su propia tierra:\n\ny para darnos un líder en su lugar sagrado; un asentamiento permanente en la tierra de Judea, la tierra santa que el Señor había elegido, y en el templo, el lugar sagrado dedicado a su culto; o un príncipe de entre ellos, Zorobabel, que fuera su gobernador, bajo cuyo liderazgo pudieran disfrutar de una felicidad y prosperidad duraderas, véase Isaías 22:23.\n\npara que nuestro Dios ilumine nuestros ojos; para refrescar nuestros espíritus, alegrar nuestras almas y darnos luz y alegría, véase 1 Samuel 14:27.\n\ny para darnos un pequeño respiro en nuestra esclavitud; porque aún estaban en cierto grado de servidumbre, sometidos y tributarios de los reyes de Persia; pero, al regresar a su propia tierra, fue como una resurrección para ellos, al menos les dio un poco de vida, libertad y alegría."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 9,
+   "ate_capitulo": 9,
+   "ate_versiculo": 9,
+   "texto": "Porque éramos esclavos,.... A los caldeos, cuando estaban en Babilonia, lo cual era más de lo que los judíos poseían en los tiempos de Cristo, según Juan 8:33.\n\nsin embargo, nuestro Dios no nos ha abandonado en nuestra esclavitud; no los dejó para que permanecieran en ella para siempre:\n\nsino que nos ha extendido su misericordia ante los reyes de Persia; los ha movido a sentir compasión y a mostrar clemencia, y a liberarlos:\n\npara darnos aliento; mientras estaban cautivos, estaban como en sus tumbas, y como los huesos secos en la visión de Ezequiel, pero revivieron con el edicto de Ciro, y con el estímulo que les dio para regresar a su propia tierra:\n\npara levantar la casa de nuestro Dios y reparar sus devastaciones; tanto para reconstruir el templo como para restaurar su culto:\n\ny para darnos protección en Judá y en Jerusalén; no para levantar los muros de Jerusalén y de otras ciudades, lo cual aún no se había hecho; sino más bien los muros de sus casas, que habían reconstruido; se les habían dado casas amuralladas en Judá y en Jerusalén; aunque la palabra significa una cerca o vallado, como los que rodean jardines y viñedos, y puede denotar la protección de los reyes de Persia, que fue una defensa para ellos contra los samaritanos y otros; y especialmente la protección de la providencia divina que los rodeaba, la cual los guardaba y defendía, como se ve en Job 1:10."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 10,
+   "ate_capitulo": 9,
+   "ate_versiculo": 10,
+   "texto": "Y ahora, oh, nuestro Dios, ¿qué podemos decir después de esto?.... ¿Qué disculpa o justificación puede ofrecerse para una ingratitud así? ¿Qué se puede decir a favor de un pueblo así? ¿Qué muestra de amabilidad se puede esperar de un pueblo que se ha comportado de una manera tan ignominiosa?\n\nporque hemos abandonado tus mandamientos, especialmente aquellos que se referían a los matrimonios con personas de otras nacionalidades."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 11,
+   "ate_capitulo": 9,
+   "ate_versiculo": 11,
+   "texto": "Que has ordenado a través de tus siervos, los profetas,.... Moisés, Josué y otros, véase Deuteronomio 7:3.\n\ndiciendo: la tierra a la cual vais a poseer; es decir, la tierra de Canaán:\n\nes una tierra impura, contaminada por la inmundicia de los habitantes de otras tierras, con sus abominaciones, que la han llenado de un extremo a otro con su impureza; y esto debe entenderse no solo de sus idolatrías, sino también de sus matrimonios incestuosos y sus relaciones impuras, por lo cual el Señor expulsó a los antiguos habitantes de ella; por esta razón, los judíos debían tener cuidado de no volver a contaminarla con prácticas similares; véase Levítico 18:1."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 12,
+   "ate_capitulo": 9,
+   "ate_versiculo": 12,
+   "texto": "Por lo tanto, no entreguen sus hijas a los hijos de ellos, ni tomen sus hijas para sus propios hijos,.... Es decir, en el matrimonio, véase Deuteronomio 7:3, donde la prohibición se expresa con las mismas palabras:\n\nni busquen su paz ni su riqueza por siempre; es decir, mientras continúen en sus idolatrías e impurezas, véase Deuteronomio 23:6.\n\nPara que sean fuertes, disfruten de los beneficios de la tierra y la dejen como herencia a sus hijos para siempre; para que se fortalezcan y se establezcan en la tierra a la que fueron llevados, y disfruten de todas las cosas buenas que produce, y dejen a sus hijos en posesión de ella, al menos hasta que venga el Mesías, véase Isaías 1:19."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 13,
+   "ate_capitulo": 9,
+   "ate_versiculo": 13,
+   "texto": "Y después de todo lo que nos ha ocurrido por nuestras malas acciones y por nuestras graves faltas,.... Como hambruna, guerra, plaga y cautiverio, debido a sus idolatrías y a otros pecados atroces:\n\nDado que nuestro Dios nos ha castigado menos de lo que nuestras iniquidades merecían; pues estas merecían un castigo eterno, mientras que se impuso un castigo temporal, y este fue moderado y ahora ha cesado. El sentido, según Aben Ezra, es: \"Has omitido escribir algunos de nuestros pecados en el libro de la memoria, y los has hundido en las profundidades de la tierra, según el sentido de que arrojarás todos sus pecados a las profundidades del mar.\" Sin embargo, Jarchi lo explica mejor: \"Te has abstenido de exigirnos todos nuestros pecados, y nos has exigido menos de lo que merecían, y no nos has vengado según todas nuestras faltas.\"\n\nY nos has concedido una liberación como esta, de la esclavitud, que ahora disfrutamos."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 14,
+   "ate_capitulo": 9,
+   "ate_versiculo": 14,
+   "texto": "¿Debemos volver a quebrantar tus mandamientos y establecer vínculos de alianza con el pueblo que profesa estas abominaciones?.... Que son culpables de abominables idolatrías y de toda clase de impureza.\n\n¿No nos habrías destruido por completo antes de sentirnos furiosos? Eso podría haberse esperado con justicia:\n\nDe modo que no quedara ni rastro, ni posibilidad de escapar; que no quedara nadie, ni que nadie pudiera evitar la ira, sino que todos fueran consumidos por ella."
+  },
+  {
+   "capitulo": 9,
+   "versiculo": 15,
+   "ate_capitulo": 9,
+   "ate_versiculo": 15,
+   "texto": "Oh, Señor Dios de Israel, tú eres justo,.... Y parece ser así, si Israel fuera completamente eliminado y consumido por completo debido a sus injusticias.\n\nporque aún permanecemos libres, como lo estamos hoy; el hecho de que aún hayan escapado de la cautividad y de la ira y la venganza de Dios, no se debe a ningún mérito propio, sino a la gracia y la misericordia de Dios, quien no ha desatado toda su ira, como sus pecados merecían:\n\nmírenos, estamos ante ustedes, reconociendo nuestras transgresiones; hagan con nosotros lo que les parezca bueno a sus ojos; no tenemos nada que podamos alegar en nuestra defensa, sino que nos postramos a sus pies, esperando que nos muestren un favor que no merecemos:\n\nporque no podemos defendernos ante ustedes debido a esto; esta mala práctica de establecer vínculos de parentesco con las naciones; no podemos defendernos; no podemos alegar ignorancia de los mandamientos divinos; no tenemos nada que decir para justificar por qué no deberíamos ser juzgados; nos ponemos en sus manos y a su misericordia."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 1,
+   "ate_capitulo": 10,
+   "ate_versiculo": 1,
+   "texto": "INTRODUCCIÓN A Ezra 10\n\nTras la oración y la confesión de Ezra, Secanías propuso que aquellos que se habían casado con mujeres extranjeras las repudiaran, junto con sus hijos. Todos juraron cumplirlo (Ezra 10:1), y se hizo un anuncio en todo el territorio para que todos se reunieran en Jerusalén en tres días. Así lo hicieron (Ezra 10:6). Al exhortar a Ezra, todos estuvieron de acuerdo, y se designaron personas para supervisar la ejecución de esta medida. El trabajo se completó en un plazo de tres meses (Ezra 10:10). Se proporciona una lista de los nombres de aquellos que se habían casado con mujeres extranjeras y que ahora las habían repudiado: de los sacerdotes (Ezra 10:18), de los levitas (Ezra 10:23) y de los demás israelitas (Ezra 10:24).\n\nAhora bien, cuando Ezra había orado y había confesado, llorando,.... Había confesado los pecados del pueblo en la oración y la súplica, con muchas lágrimas.\n\ny se postró ante la casa de Dios; en el patio exterior, frente al templo, con el rostro vuelto hacia él, donde yacía prostado:\n\nallí se reunió con él una gran multitud de hombres, mujeres y niños de todo Israel. Se corrió rápidamente la noticia, tanto en Jerusalén como en los lugares cercanos, de que un hombre tan importante, un comisionado del rey de Persia y un sacerdote judío, estaba en la mayor angustia, desgarrando sus ropas, arrancándose el cabello, y clamando y orando con gran fervor; lo que atrajo a una gran multitud de personas, quienes concluyeron que se habían cometido grandes pecados y que graves castigos estaban por venir:\n\nporque el pueblo lloró amargamente, conmovido por sus confesiones, sus gritos y sus lágrimas, y temiendo que la ira recaería sobre ellos por sus pecados."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 2,
+   "ate_capitulo": 10,
+   "ate_versiculo": 2,
+   "texto": "Y Sequenías, hijo de Jehiel, uno de los hijos de Elam, respondió a Ezra y le dijo,.... Este hombre parece ser uno de aquellos que llegaron de Babilonia con Ezra, como se puede ver en Ezra 8:3.\n\nHemos pecado contra nuestro Dios y hemos tomado esposas de entre los habitantes de la tierra; no es que él mismo lo haya hecho, pues apenas había llegado a la tierra, ni su nombre figura en la lista de quienes lo hicieron; pero dado que muchos de la nación, a la que él pertenecía, así como su propio padre y varios de sus tíos, sí lo habían hecho (Ezra 10:26), él se expresa de esta manera:\n\nSin embargo, ahora hay esperanza en Israel con respecto a esto; de una reforma de este mal y de un perdón para él."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 3,
+   "ate_capitulo": 10,
+   "ate_versiculo": 3,
+   "texto": "Ahora, por lo tanto, hagamos un pacto con nuestro Dios,.... Renovamos nuestro pacto con él, y nos sometemos a nuevas obligaciones mediante promesas y juramentos, y acordamos de manera unánime.\n\nPara repudiar a todas las esposas, y a aquellos que nacen de ellas; se refiere a todas las esposas extranjeras, ya que esos matrimonios eran ilegales; y esas esposas podrían ser repudiadas más fácilmente, dado que los documentos de divorcio eran de uso común entre los judíos, y los hijos de tales matrimonios también eran considerados ilegítimos; y aún más, debían ser repudiadas para evitar que corrompieran a otros niños, o que ganaran el afecto de sus padres, lo que podría llevar a que estos últimos volvieran a aceptar a sus madres; y esto, especialmente, debía hacerse como un castigo por su pecado: aunque sin duda se debía hacer una provisión, y se hizo, para el sustento tanto de las esposas como de los hijos.\n\nSegún el consejo de mi Señor; ya sea de Esdras, a quien honra con este título, siendo un funcionario bajo el rey de Persia; o del Señor Dios, de acuerdo con su voluntad expresada en sus palabras, que es su consejo.\n\nY de aquellos que temen el mandato de nuestro Dios; que temían quebrantarlo y temían las consecuencias de una transgresión; y que, sin duda, seguirían el consejo del Señor y se unirían a sus recomendaciones para actuar de acuerdo con la propuesta realizada.\n\nY que se haga de acuerdo con la ley; tal como esta lo prescribe en casos similares."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 4,
+   "ate_capitulo": 10,
+   "ate_versiculo": 4,
+   "texto": "Levántate,.... Desde el suelo, donde yacía postrado:\n\nEn este asunto, la responsabilidad es tuya; como sacerdote y escriba de la ley, con un profundo conocimiento de ella, y por lo tanto, podrías indicar lo que debía hacerse de acuerdo con ella; y como gobernante bajo el rey de Persia, y como su representante, tenías la autoridad para investigar si los judíos cumplían con la ley de Dios (Esdras 7:14), y por lo tanto, tenías la autoridad para hacer cumplir la ley:\n\nNosotros también estaremos contigo; para ayudarte y asistirte en la reforma de este mal:\n\nTen ánimo y actúa; no te desanimes ante la posibilidad de enfrentar oposición; comienza y no dudes en que tendrás éxito."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 5,
+   "ate_capitulo": 10,
+   "ate_versiculo": 5,
+   "texto": "Entonces, se levantó Ezra,.... Desde el suelo, donde yacía:\n\ny obligó a los sumos sacerdotes, a los levitas y a todo Israel a jurar que obedecerían esta orden: hizo que todos los presentes juraran cumplir con lo propuesto, es decir, repudiar a las esposas extranjeras y a sus hijos:\n\ny ellos juraron; de esta manera, se les obligó a cumplir su promesa, ya que un juramento es un acto solemne y sagrado."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 6,
+   "ate_capitulo": 10,
+   "ate_versiculo": 6,
+   "texto": "Entonces, Ezra se levantó de su lugar frente a la casa de Dios,.... Partió de allí:\n\ny entró en la cámara de Johanan, hijo de Eliashib, quien pertenecía a la familia del sumo sacerdote. Eliashib era nieto del sumo sacerdote Josué, y sucedió a su padre Joiakim en ese cargo; sin embargo, aunque Johanan nunca fue sumo sacerdote, al ser un hijo menor, era una persona de importancia y tenía una cámara en el templo, a donde Ezra fue, ya sea para aconsejarse con los príncipes y ancianos que se encontraban allí (Esdras 10:8), o para descansar y alimentarse:\n\ny cuando llegó allí, no comió pan ni bebió agua; o, más precisamente, \"todavía no había comido pan\" (o), como algunos interpretan; es decir, no hasta que llegó allí, desde el momento en que supo de la maldad que el pueblo había cometido; lo cual probablemente fue temprano en la mañana, y ahora ya era tarde:\n\nporque lamentaba la transgresión de aquellos que habían sido llevados al cautiverio, pero que ahora habían regresado; y le causaba aún más tristeza que, después de tanta bondad mostrada hacia ellos, cometieran una maldad de tal magnitud.\n\n(o) \"nondum comederat\", Junius & Tremellius, Piscator."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 7,
+   "ate_capitulo": 10,
+   "ate_versiculo": 7,
+   "texto": "Y ellos hicieron un anuncio,.... Por medio de la voz de un heraldo:\n\na lo largo de toda la región de Judá y Jerusalén, a todos los hijos del exilio; a aquellos que habían regresado de él:\n\npara que se reunieran en Jerusalén; dentro de un plazo que se especificaría más adelante."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 8,
+   "ate_capitulo": 10,
+   "ate_versiculo": 8,
+   "texto": "Y que cualquiera que no pudiera presentarse en un plazo de tres días,.... O, como indica Jarchi, al final de tres días, este fue el plazo establecido y acordado para resolver rápidamente este asunto, con el fin de evitar cualquier plan que pudiera frustrarlo, y para evitar que aquellos que habían aceptado y prometido ayudar en ello, se arrepintieran y se retractaran de su compromiso.\n\nSegún el consejo de los príncipes y de los ancianos, aunque Ezra tenía una comisión amplia del rey de Persia para investigar y reformar todos los abusos, él no actuó por su cuenta, sino que buscó la opinión y el consentimiento del senado de la nación. Esto lo hizo con prudencia para evitar su envidia y para tener menos oposición y lograr mejores resultados.\n\nSus bienes debían ser confiscados, o \"dedicados\" (p) a usos sagrados, para ser depositados en el tesoro del templo y utilizados en su servicio, por lo que nunca debían ser devueltos.\n\nY él mismo debía ser separado de la congregación de aquellos que habían sido llevados al exilio, pero que ahora habían regresado; es decir, debía ser excomulgado de ellos como iglesia, y dejar de ser considerado parte del cuerpo político o un ciudadano libre de Israel, y así, ser privado de todos los privilegios tanto en la iglesia como en el estado.\n\n(p) \"anathema erit vel fore\", Montanus, Junius & Tremellius, Piscator; \"devoveretur\", Michaelis."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 9,
+   "ate_capitulo": 10,
+   "ate_versiculo": 9,
+   "texto": "Luego, todos los hombres de Judá y de Benjamín,.... Y de las diez tribus que regresaron y vivieron entre ellos:\n\nreunieron a la gente en Jerusalén en un plazo de tres días; el tiempo establecido: y se esforzaron por cumplirlo, ya que estaba ordenado por la autoridad de los príncipes y los ancianos, y la pena por la desobediencia era muy severa:\n\nera el noveno mes, el día veinte del mes; el mes de Chisleo, que corresponde a parte de noviembre y parte de diciembre, por lo que el día veinte debía ser a principios de diciembre; esto ocurrió casi cinco meses después de que Ezequías llegara a Jerusalén:\n\ny toda la gente se sentó en la calle de la casa de Dios: la calle que conducía al templo, la calle oriental, 2 Crónicas 29:4, aunque algunos creen que era el patio del pueblo, llamado calle porque estaba abierto y aún no estaba amurallado; y, según Josefo (q), estaba en una sala superior del templo donde se encontraba Ezequías, quizás la misma que la cámara de Johanan, Ezequías 10:6.\n\nestaban temerosos por este asunto; se habían reunido, algunos que eran culpables, sin saber qué castigo se les infligiría, y otros que no lo eran, pero temían la ira de Dios, por si esta se desatara sobre toda la congregación por su causa:\n\ny por la gran lluvia; que ahora caía, y que interpretaron como una señal del descontento divino: porque, aunque era época de invierno, no era una época de lluvia, ya que la lluvia anterior había caído un mes antes; por lo tanto, al ser esto inusual e inesperado, lo entendieron como un presagio de mal augurio para ellos.\n\n(q) Antiqu. l. 11. c. 5. sect. 4."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 10,
+   "ate_capitulo": 10,
+   "ate_versiculo": 10,
+   "texto": "Y Ezra, el sacerdote, se levantó,.... En medio de la reunión, mientras se preparaba para su discurso, y con el objetivo de informarles sobre el motivo de su encuentro:\n\ny les dijo: \"Ustedes han pecado; han transgredido la ley de Dios en el siguiente aspecto:\n\nhan tomado esposas extranjeras, de entre el pueblo de esta tierra y de otros lugares, mujeres idólatras:\n\npara aumentar la transgresión de Israel, para añadir a las antiguas injusticias, que habían sido la causa del cautiverio.\""
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 11,
+   "ate_capitulo": 10,
+   "ate_versiculo": 11,
+   "texto": "Ahora, por lo tanto, hagan una confesión al Señor, Dios de sus antepasados,.... Expresen su arrepentimiento por sus pecados y manifiesten su profundo rechazo hacia ellos.\n\ny complázale; obedezca su voluntad, y en particular, en este caso:\n\ny sepárense del pueblo de la tierra; no tengan relaciones con los cananeos, etc.; no establezcan vínculos, contratos ni alianzas con ellos para el futuro:\n\ny a las mujeres extranjeras que habían tomado, desháganse de ellas."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 12,
+   "ate_capitulo": 10,
+   "ate_versiculo": 12,
+   "texto": "Entonces, toda la asamblea respondió en voz alta,.... Para que pudieran ser escuchados, y para demostrar que estaban dispuestos y preparados para cumplir con lo que se proponía:\n\nComo ustedes han dicho, así debemos actuar. Convencidos de su pecado, comprendieron que era su deber repudiar a sus esposas extranjeras, y que era necesario hacerlo para evitar la ira de Dios."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 13,
+   "ate_capitulo": 10,
+   "ate_versiculo": 13,
+   "texto": "Pero la gente es mucha,.... ¿Quiénes han sido los responsables de esta atrocidad?\n\nY es una época de muchas lluvias, y no podemos permanecer sin: en la calle, debido a la lluvia:\n\nTampoco es un trabajo que se pueda realizar en un día o dos; es necesario investigar este asunto, identificar a quienes han contraído matrimonio con mujeres de otras culturas, y persuadirlos o obligarlos a dejar de hacerlo:\n\nPorque somos muchos los que hemos transgredido en este aspecto, al casarnos con mujeres de otras culturas."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 14,
+   "ate_capitulo": 10,
+   "ate_versiculo": 14,
+   "texto": "Ahora, que los líderes de todas las congregaciones se levanten,.... Que el gran Sanedrín, o tribunal judicial de Jerusalén, se establezca y se mantenga, así como otros:\n\ny que todos aquellos que hayan contraído matrimonio con mujeres de otras culturas en nuestras ciudades acudan, en los momentos designados, al tribunal de Jerusalén, en fechas específicas y conocidas, para este propósito:\n\ny que lo hagan junto con los ancianos de cada ciudad y sus jueces, los principales funcionarios de la misma, quienes deberán testificar que, tras una investigación, se ha confirmado que esas personas y todos los hombres de su ciudad que se casaron con mujeres de otras culturas, han dejado de hacerlo, siguiendo las instrucciones de los príncipes y ancianos; y se proponía que esto se llevara a cabo en cada ciudad, y que se presentara un informe al Sanedrín en Jerusalén, quienes se reunirían en momentos específicos hasta que este asunto se resolviera:\n\nhasta que la ira de nuestro Dios por este asunto se desvanezca: lo cual, al parecer, ya se había manifestado en algunos casos, y temían que fuera a empeorar aún más, a menos que se tomara esta medida, con la que esperaban evitarlo."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 15,
+   "ate_capitulo": 10,
+   "ate_versiculo": 15,
+   "texto": "Solo Jonathan, hijo de Asahel, y Jahazías, hijo de Tikvah, estuvieron involucrados en este asunto,.... Para verificar que este asunto se llevara a cabo de la manera propuesta, se debía asegurar que los magistrados de cada ciudad presentaran a las personas que habían cometido infracciones, en el orden establecido, después de notificarles previamente, y que se llevara un registro de las personas que comparecían.\n\nY Meshullam y Shabbethai, del linaje de Leví, los ayudaron; los asistieron en esta tarea. Los otros dos, quizás, eran sacerdotes, y ambos, levitas. Estos cuatro fueron las únicas personas designadas para supervisar este asunto, como puede indicar la frase en la cláusula anterior. Sin embargo, Jarchi interpreta esto de manera opuesta, afirmando que eran las únicas personas que se opusieron y objetaron a esto. El Dr. Lightfoot (r) también lo interpreta así, traduciéndolo como \"se opusieron a este asunto\", y los dos levitas los secundaron, lo cual es una interpretación muy probable.\n\n(r) Works, vol. 1. p. 144."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 16,
+   "ate_capitulo": 10,
+   "ate_versiculo": 16,
+   "texto": "Y los hijos del cautiverio hicieron lo mismo,.... Guarden a sus extrañas esposas.\n\ny Esdras, el sacerdote, junto con algunos jefes de las familias, y todos ellos por sus nombres, fueron apartados; dejaron de lado todas sus demás ocupaciones y se dedicaron por completo a esta tarea:\n\nse reunieron el primer día del décimo mes, el mes de Tebeth, que corresponde a parte de diciembre y enero; esto fue diez días después de que la asamblea de todo el pueblo se reuniera y se disolviera. Estos tomaron sus puestos en el gran patio, y allí se sentaron\n\npara examinar el asunto; revisaron los informes que habían sido presentados por los magistrados de las diferentes ciudades y los registraron."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 17,
+   "ate_capitulo": 10,
+   "ate_versiculo": 17,
+   "texto": "Y así terminaron con todos los hombres que habían tomado esposas extranjeras,.... Finalizaron su investigación y el examen de los mismos:\n\nantes del primer día del primer mes; el mes de Nisan, que corresponde a parte de los meses de marzo y abril; por lo tanto, estuvieron trabajando en esto durante aproximadamente tres meses."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 18,
+   "ate_capitulo": 10,
+   "ate_versiculo": 18,
+   "texto": "Y entre los hijos de los sacerdotes, se encontraron algunos que habían tomado esposas de origen extranjero,.... Así que no es de extrañar que este mal se extendiera entre la gente, cuando aquellos que entendían la ley y debían haberla enseñado al pueblo, daban un ejemplo así: a saber:\n\nde los hijos de Jeshua, hijo de Jozadak, quien era el sumo sacerdote; y quizás, por esta falta suya, por no impedir que sus hijos contrajeran esos matrimonios ilícitos, es representado con vestiduras sucias, como se ve en Zacarías 3:3.\n\nY sus hermanos, Maaseías, Eliezar, Jarib y Gedalías; estos eran los hermanos de Jeshua."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 19,
+   "ate_capitulo": 10,
+   "ate_versiculo": 19,
+   "texto": "Y extendieron la mano, jurando que dejarían a sus esposas,.... Propusieron hacerlo, y de hecho, lo hicieron.\n\ny siendo culpables; de lo cual estaban completamente convencidos:\n\nofrecieron un cordero del rebaño como ofrenda por su transgresión, para expiarla, y así dar un ejemplo a otros para que hicieran lo mismo. Aben Ezra señala que no encontramos evidencia de que la ofrenda por transgresión se aplicara a aquellos que se casaron con mujeres extranjeras, y especula que fue el consejo de los líderes hacer esto. A partir de aquí, hasta el final de Ezra 10:43, se presenta una lista de los hombres que se habían casado con mujeres extranjeras y las habían repudiado; aquellos mencionados en Ezra 10:20 eran sacerdotes; en Ezra 10:23, levitas, y algunos de ellos eran cantores o porteros; el resto eran israelitas. Es una distinción muy común en los escritos rabínicos distinguir a los judíos en sacerdotes, levitas e israelitas; de estos, solo conocemos sus nombres; algunos de los líderes de las familias se pueden encontrar en Ezra 2:1."
+  },
+  {
+   "capitulo": 10,
+   "versiculo": 44,
+   "ate_capitulo": 10,
+   "ate_versiculo": 44,
+   "texto": "Todos ellos habían tomado esposas de origen inusual,.... En total, son ciento trece.\n\ny algunos de ellos tenían esposas de quienes habían tenido hijos; sin embargo, las repudiaron, lo que dificultó aún más esta decisión; y aquellos que no tenían esposas, se cree que esto era una señal del descontento de Dios con esos matrimonios. Dado que no se menciona que los hijos fueran repudiados, como Shecanías propuso en Ezra 10:3, se puede concluir que no fue así, sino que fueron cuidados para ser educados en la verdadera religión y para convertirse al judaísmo en el momento adecuado; y esto es aún más probable, ya que Ezra no dio ninguna orden sobre su repudiación, como se indica en Ezra 10:11."
+  }
+ ]
+}
