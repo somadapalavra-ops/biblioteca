@@ -12,7 +12,7 @@ Cada obra traz o texto original em inglês e as traduções, capítulo por capí
 
 ## Comentários bíblicos (em tradução)
 
-Traduções para português e espanhol, feitas aos poucos (um trecho por noite), dos comentários clássicos de **Matthew Poole**, **John Gill** e **Albert Barnes**, que nunca foram publicados nessas línguas. Pasta `comentarios/<autor>/<língua>/<livro>.json`, versículo por versículo. Versículos já traduzidos: Poole 1888, Gill 1972, Barnes 1396.
+Traduções para português e espanhol, feitas aos poucos (um trecho por noite), dos comentários clássicos de **Matthew Poole**, **John Gill** e **Albert Barnes**, que nunca foram publicados nessas línguas. Pasta `comentarios/<autor>/<língua>/<livro>.json`, versículo por versículo. Versículos já traduzidos: Poole 2619, Gill 2813, Barnes 1442.
 
 ## Léxico grego e hebraico (em tradução)
 
