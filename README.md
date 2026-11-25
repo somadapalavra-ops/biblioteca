@@ -16,7 +16,7 @@ Traduções para português e espanhol, feitas aos poucos (um trecho por noite),
 
 ## Léxico grego e hebraico (em tradução)
 
-Tradução do léxico do [STEPBible](https://www.stepbible.org) (Tyndale House, Cambridge; CC BY 4.0), com os sentidos numerados de cada palavra, organizada pelos números de Strong. Pasta `lexico/<língua>/lexico.json`. Verbetes já traduzidos: 3003.
+Tradução do léxico do [STEPBible](https://www.stepbible.org) (Tyndale House, Cambridge; CC BY 4.0), com os sentidos numerados de cada palavra, organizada pelos números de Strong. Pasta `lexico/<língua>/lexico.json`. Verbetes já traduzidos: 4111.
 
 ## Como usar
 
